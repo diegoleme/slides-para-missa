@@ -14,6 +14,11 @@ const categoria = computed(() => (props.momento.tipo === 'texto' ? 'texto' : 'ca
 const item = computed(() => (props.momento.itemId ? biblioteca.item(props.momento.itemId) : undefined));
 
 const modo = ref<'ver' | 'buscar' | 'cadastrar' | 'editar'>('ver');
+const termo = ref('');
+const filtrarMomento = ref(true);
+const filtrarTempo = ref(true);
+
+// Ao trocar de momento, volta ao estado inicial (ver o canto escolhido ou buscar um).
 watch(
   () => props.momento.id,
   () => {
@@ -25,9 +30,6 @@ watch(
   { immediate: true },
 );
 
-const termo = ref('');
-const filtrarMomento = ref(true);
-const filtrarTempo = ref(true);
 const resultados = computed(() =>
   buscar(biblioteca.todos, termo.value, {
     etiqueta: filtrarMomento.value ? props.momento.etiqueta : undefined,
