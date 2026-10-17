@@ -1,7 +1,6 @@
 import { defineStore } from 'pinia';
 import { computed, ref, watch } from 'vue';
-import { diaLiturgico } from '../liturgia/calendario.ts';
-import { leiturasDoDia } from '../liturgia/leituras.ts';
+import { liturgiaDoDia } from '../liturgia/leituras.ts';
 import { criarMissa, duplicarMissa } from '../modelo/missa.ts';
 import type { Missa } from '../modelo/tipos.ts';
 import { CHAVES, gravar, ler } from '../util/armazenamento.ts';
@@ -29,7 +28,7 @@ export const useMissas = defineStore('missas', () => {
   const missa = (id: string) => missas.value.find((m) => m.id === id);
 
   async function nova(data: string): Promise<Missa> {
-    const [liturgia, leituras] = await Promise.all([diaLiturgico(data), leiturasDoDia(data)]);
+    const { liturgia, leituras } = await liturgiaDoDia(data);
     const m = criarMissa(data, liturgia, leituras);
     missas.value.push(m);
     return m;
@@ -38,7 +37,7 @@ export const useMissas = defineStore('missas', () => {
   async function duplicar(id: string, data: string): Promise<Missa> {
     const origem = missa(id);
     if (!origem) throw new Error('Missa não encontrada.');
-    const [liturgia, leituras] = await Promise.all([diaLiturgico(data), leiturasDoDia(data)]);
+    const { liturgia, leituras } = await liturgiaDoDia(data);
     const m = duplicarMissa(origem, data, liturgia, leituras);
     missas.value.push(m);
     return m;

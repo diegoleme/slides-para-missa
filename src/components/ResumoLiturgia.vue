@@ -12,7 +12,7 @@ defineProps<{
 
 <template>
   <div class="resumo">
-    <p v-if="carregando" class="suave">Consultando o calendário litúrgico…</p>
+    <p v-if="carregando" class="suave">Consultando a liturgia do dia…</p>
     <p v-else-if="erro" class="aviso">{{ erro }}</p>
     <template v-else-if="liturgia">
       <p class="celebracao">{{ liturgia.celebracao }}</p>
@@ -31,7 +31,8 @@ defineProps<{
         ✓ Leituras da Paulus encontradas: {{ leituras.leituras.filter((l) => l.tipo !== 'salmo').map((l) => l.referencia).join(' · ') }}
       </p>
       <p v-else class="pequeno aviso">
-        ⚠ Ainda não há leituras para esta data. A missa será criada com os campos de leitura vazios, para preencher à mão.
+        ⚠ A Paulus ainda não publicou esta data. Tempo, ano e cor foram calculados; confira o nome da celebração.
+        As leituras ficam vazias, para preencher à mão.
       </p>
     </template>
   </div>

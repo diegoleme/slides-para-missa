@@ -107,8 +107,3 @@ export function aplicarLeituras(momentos: Momento[], dia: DiaPaulus | null): Mom
       : { ...m, leitura: leituraVazia(tipo), leituraSemDados: true };
   });
 }
-
-/** Nome da celebração mais legível: "29º DOMINGO DO TEMPO COMUM*" → como a romcal escreve, se houver. */
-export function limparCelebracaoPaulus(texto: string): string {
-  return texto.replace(/\*+$/, '').trim();
-}

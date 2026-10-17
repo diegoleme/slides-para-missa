@@ -1,6 +1,6 @@
 import { ref, watch, type Ref } from 'vue';
-import { ajustarComPaulus, diaLiturgico, type DiaLiturgico } from '../liturgia/calendario.ts';
-import { leiturasDoDia } from '../liturgia/leituras.ts';
+import type { DiaLiturgico } from '../liturgia/calendario.ts';
+import { liturgiaDoDia } from '../liturgia/leituras.ts';
 import type { DiaPaulus } from '../modelo/paulus.ts';
 
 /** Liturgia e leituras de uma data, atualizadas quando a data muda. */
@@ -21,10 +21,10 @@ export function usePreviaLiturgia(data: Ref<string>) {
       if (!/^\d{4}-\d{2}-\d{2}$/.test(d)) return;
       carregando.value = true;
       try {
-        const [l, p] = await Promise.all([diaLiturgico(d), leiturasDoDia(d)]);
+        const r = await liturgiaDoDia(d);
         if (meu !== pedido) return;
-        liturgia.value = ajustarComPaulus(l, p?.observacao);
-        leituras.value = p;
+        liturgia.value = r.liturgia;
+        leituras.value = r.leituras;
       } catch (e) {
         if (meu === pedido) erro.value = e instanceof Error ? e.message : String(e);
       } finally {

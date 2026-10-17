@@ -34,6 +34,18 @@
 9. **Biblioteca — deixei de fora por dúvida de direitos**: todos os cantos em português (inclusive tradicionais como "Queremos Deus" e "Noite Feliz", por causa das traduções), o **Creio** e as partes fixas em português (tradução da CNBB). Entraram: ordinário em latim/grego (Kyrie, Gloria, Sanctus, Agnus Dei), hinos latinos (Adoro te, Tantum ergo, O salutaris, Veni Creator, Ubi caritas, Rorate, Attende, Adeste, Regina caeli, Salve Regina, Ave Maria), Alma de Cristo, **Pai-Nosso** (incluí por ser oração tradicional; revise) e orientações escritas por mim.
 10. **Coleta inicial a partir de 01/09/2026**; a semanal pega os últimos 35 dias de `lastmod`. Rotas com `#` (GitHub Pages). `base` do Vite = `/slides-para-missa/`.
 
+## Manhã de 17/10 (decisões tomadas com você)
+
+- **Biblioteca pode ter cantos sem autorização**; o projeto assume o risco e atende pedidos de remoção.
+  Cada item informa a situação de direitos; "Exportar/Importar meus cantos" na tela inicial;
+  `pnpm biblioteca:incorporar arquivo.json`; modelo de issue "Pedido de remoção".
+- **Romcal saiu do app.** A Paulus é a fonte da verdade (nome, cor, Glória). Tempo e ano vêm de
+  `src/liturgia/regras.ts`. A romcal ficou só nos testes: as regras batem com ela em 5.844 dias
+  (2020–2035), exceto a Quinta-feira Santa, que tratamos como Tríduo de propósito.
+- Data sem página da Paulus: nome provisório ("Domingo – Quaresma"), cor e Glória pelas regras, ⚠ na Capa.
+- Os itens 1 a 3 de "Decisões para você revisar" (Glória, cor rosa, divergências da romcal) deixaram de valer.
+- Corrigido: commits do robô não disparavam a publicação do site; agora o robô aciona `publicar.yml`.
+
 ## Pendente
 
 - **Não testei no navegador**: a extensão do Chrome não estava conectada. Tipos, build e testes passam, e gerei um .pptx real no Node (46 slides, fonte 42 pt), mas ainda não conferi visualmente. Primeiro passo de hoje: `pnpm dev` e montar uma missa.

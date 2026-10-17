@@ -21,6 +21,10 @@ export function situacaoDoMomento(
 
   switch (momento.tipo) {
     case 'capa':
+      // Sem página da Paulus, o nome é provisório ("Domingo – Tempo Comum") até a pessoa editar.
+      if (liturgia.fonte === 'regras' && missa.celebracao === liturgia.celebracao) {
+        return { sinal: 'atencao', motivo: 'A Paulus ainda não publicou esta data. Confira o nome da celebração e a cor.' };
+      }
       return { sinal: 'ok' };
 
     case 'avisos':

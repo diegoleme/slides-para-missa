@@ -12,21 +12,20 @@
     "test": "vitest run",
     "typecheck": "vue-tsc --noEmit",
     "leituras": "node --experimental-strip-types --no-warnings scripts/leituras/coletar.ts",
-    "biblioteca:incorporar": "node --experimental-strip-types --no-warnings scripts/biblioteca/incorporar.ts",
-    "romcal:validar": "node --experimental-strip-types --no-warnings scripts/leituras/validar-romcal.ts"
+    "biblioteca:incorporar": "node --experimental-strip-types --no-warnings scripts/biblioteca/incorporar.ts"
   },
   "dependencies": {
-    "@romcal/calendar.brazil": "3.0.0-dev.140",
     "jspdf": "^4.2.1",
     "pinia": "^4.1.0",
     "pptxgenjs": "^4.0.1",
-    "romcal": "3.0.0-dev.140",
     "vue": "^3.5.44",
     "vue-router": "^5.4.0"
   },
   "devDependencies": {
+    "@romcal/calendar.brazil": "3.0.0-dev.140",
     "@types/node": "^22.20.5",
     "@vitejs/plugin-vue": "^6.0.10",
+    "romcal": "3.0.0-dev.140",
     "typescript": "~5.9.3",
     "vite": "^8.3.4",
     "vitest": "^5.0.5",

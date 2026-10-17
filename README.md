@@ -70,7 +70,11 @@ App gratuito e de código aberto para ministérios de igrejas católicas montare
 - **Site estático:**
   - Vue 3, Vite, TypeScript e Pinia.
   - [pptxgenjs](https://github.com/gitbrent/PptxGenJS) gera o .pptx no navegador.
-  - [romcal](https://github.com/romcal/romcal) v3 calcula tempo, cor e ciclo. Essa versão ainda está em teste e precisa ser comparada com a Paulus logo no início.
+- **Calendário litúrgico:**
+  - A Paulus é a fonte da verdade: nome da celebração, cor e Glória vêm da página do dia.
+  - Tempo litúrgico e ano (A, B, C) são calculados por regras próprias (`src/liturgia/regras.ts`), com as particularidades do Brasil (Epifania no domingo).
+  - Para datas que a Paulus ainda não publicou, as mesmas regras dão uma cor e um Glória de reserva, e o app pede para conferir o nome.
+  - As regras são testadas contra a [romcal](https://github.com/romcal/romcal) (só nos testes, 2020–2035) e contra os dados da Paulus a cada coleta. Diferença proposital: a Quinta-feira Santa conta como Tríduo.
 - **Leituras:**
   - Um robô semanal no GitHub Actions lê o sitemap da Paulus (`liturgiadiaria-sitemap.xml`).
   - A data de cada página vem de `article:published_time`.
@@ -100,7 +104,8 @@ App gratuito e de código aberto para ministérios de igrejas católicas montare
   - A tradução das leituras é da CNBB. Os slides mostram só trechos curtos, e o pedido de autorização às Edições CNBB fica para depois do piloto.
   - A biblioteca pode ter letras de cantos sem autorização dos autores. Um autor pode pedir a remoção (há um modelo de issue "Pedido de remoção"), e o pedido será atendido.
 - Os dados do usuário somem se o navegador for limpo.
-- A romcal com o calendário do Brasil ainda está em versão de teste.
+- A Paulus é a fonte única: se ela mudar o layout, perdemos nome, cor e leituras de uma vez (o robô falha de forma visível no GitHub Actions).
+- A Paulus às vezes publica a página de um dia com a data de outro; o robô corrige pelo cabeçalho da página.
 
 ## Licença
 

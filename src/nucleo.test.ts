@@ -15,11 +15,11 @@ const medir = medidorAproximado;
 
 const comum: DiaLiturgico = {
   data: '2026-10-18', celebracao: '29º Domingo do Tempo Comum', cor: 'verde', tempo: 'comum',
-  ano: 'A', grau: 'SUNDAY', temGloria: true, idRomcal: 'ordinary_time_29_sunday',
+  ano: 'A', temGloria: true, fonte: 'paulus',
 };
 const advento: DiaLiturgico = {
   data: '2026-11-29', celebracao: '1º Domingo do Advento', cor: 'roxo', tempo: 'advento',
-  ano: 'B', grau: 'SUNDAY', temGloria: false, idRomcal: 'advent_1_sunday',
+  ano: 'B', temGloria: false, fonte: 'paulus',
 };
 
 const paulus: DiaPaulus = {

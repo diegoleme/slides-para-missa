@@ -13,6 +13,7 @@ on:
 
 permissions:
   contents: write
+  actions: write # para acionar a publicação do site
 
 concurrency:
   group: leituras
@@ -45,18 +46,31 @@ jobs:
             pnpm leituras
           fi
 
-      - name: Comparar romcal com a Paulus
-        run: pnpm romcal:validar
+      # Confere as regras do calendário com os dados novos. Se falhar, os dados
+      # são gravados mesmo assim, mas o aviso fica visível no GitHub Actions.
+      - name: Conferir regras do calendário com a Paulus
+        run: pnpm exec vitest run src/liturgia
         continue-on-error: true
 
       - name: Gravar no repositório
+        id: gravar
         run: |
           git config user.name "robo-das-leituras"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add public/data/leituras
           if git diff --cached --quiet; then
             echo "Nada novo."
+            echo "mudou=nao" >> "$GITHUB_OUTPUT"
           else
             git commit -m "Leituras: atualização automática"
             git push
+            echo "mudou=sim" >> "$GITHUB_OUTPUT"
           fi
+
+      # Commits feitos pelo GITHUB_TOKEN não disparam outros workflows;
+      # por isso a publicação é acionada aqui.
+      - name: Publicar o site
+        if: steps.gravar.outputs.mudou == 'sim'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run publicar.yml --ref "${{ github.ref_name }}"
