@@ -12,6 +12,7 @@
     "test": "vitest run",
     "typecheck": "vue-tsc --noEmit",
     "leituras": "node --experimental-strip-types --no-warnings scripts/leituras/coletar.ts",
+    "biblioteca:incorporar": "node --experimental-strip-types --no-warnings scripts/biblioteca/incorporar.ts",
     "romcal:validar": "node --experimental-strip-types --no-warnings scripts/leituras/validar-romcal.ts"
   },
   "dependencies": {

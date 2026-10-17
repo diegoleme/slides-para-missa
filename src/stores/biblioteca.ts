@@ -1,5 +1,6 @@
 import { defineStore } from 'pinia';
 import { computed, ref, watch } from 'vue';
+import { separarNovos, type DadosItem } from '../biblioteca/arquivo.ts';
 import { novoId } from '../modelo/roteiro.ts';
 import type { ItemBiblioteca } from '../modelo/tipos.ts';
 import { CHAVES, gravar, ler } from '../util/armazenamento.ts';
@@ -49,5 +50,12 @@ export const useBiblioteca = defineStore('biblioteca', () => {
     doUsuario.value = doUsuario.value.filter((x) => x.id !== id);
   }
 
-  return { doProjeto, doUsuario, carregada, erro, carregar, todos, item, adicionar, atualizar, remover };
+  /** Acrescenta os cantos de um arquivo, pulando os que já existem (aqui ou na biblioteca do projeto). */
+  function importar(itens: DadosItem[]): { adicionados: number; repetidos: number } {
+    const { novos, repetidos } = separarNovos(itens, todos.value);
+    for (const dados of novos) adicionar(dados);
+    return { adicionados: novos.length, repetidos };
+  }
+
+  return { doProjeto, doUsuario, carregada, erro, carregar, todos, item, adicionar, atualizar, remover, importar };
 });

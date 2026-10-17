@@ -55,8 +55,11 @@ App gratuito e de código aberto para ministérios de igrejas católicas montare
   - Cada canto tem etiquetas de **momento** (entrada, comunhão...) e de **tempo litúrgico**.
   - As partes fixas cantadas (Kyrie, Glória, Santo, Cordeiro) também são cantos da biblioteca.
 - **Biblioteca:**
-  - Um JSON de cantos e textos no repositório, curado pelo projeto.
+  - Um JSON de cantos e textos no repositório (`public/data/biblioteca.json`), curado pelo projeto.
+  - Cada item informa a situação de direitos: domínio público, texto do projeto, autorizado ou sem autorização.
+  - Pode incluir cantos sem autorização dos autores; o projeto assume esse risco e atende pedidos de remoção.
   - Mais os cantos que cada usuário acrescentar, salvos no navegador dele.
+  - **Exportar/Importar cantos** na tela inicial: para passar cantos entre pessoas do ministério e para enviar à biblioteca do projeto (`pnpm biblioteca:incorporar arquivo.json`).
 - **Leituras:** mostram título e referência, refrão do salmo e versículo do Aleluia. O texto completo não aparece.
 - **Tema fixo:**
   - Fundo preto e texto branco em **Tahoma**, a única fonte da v1. Ela vem no Windows e no Mac, e no Linux pelo pacote `ttf-mscorefonts-installer`.
@@ -95,7 +98,7 @@ App gratuito e de código aberto para ministérios de igrejas católicas montare
 - A Paulus pode mudar o layout do site, o que quebraria a extração automática.
 - Direitos autorais:
   - A tradução das leituras é da CNBB. Os slides mostram só trechos curtos, e o pedido de autorização às Edições CNBB fica para depois do piloto.
-  - Um autor pode pedir a remoção de uma letra de canto, e o pedido será atendido.
+  - A biblioteca pode ter letras de cantos sem autorização dos autores. Um autor pode pedir a remoção (há um modelo de issue "Pedido de remoção"), e o pedido será atendido.
 - Os dados do usuário somem se o navegador for limpo.
 - A romcal com o calendário do Brasil ainda está em versão de teste.
 

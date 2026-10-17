@@ -1,17 +1,29 @@
 {
   "versao": 1,
-  "observacao": "Biblioteca curada pelo projeto. Só textos de domínio público ou escritos pelo projeto. Pedidos de remoção serão atendidos.",
+  "observacao": "Biblioteca curada pelo projeto. Cada item informa a situação de direitos. Pedidos de remoção são atendidos: veja o README.",
   "itens": [
     {
       "id": "orientacao-ajoelhe-se",
       "categoria": "texto",
       "titulo": "Ajoelhe-se para a Consagração",
       "fonte": "Orientação escrita pelo projeto.",
+      "direitos": "projeto",
       "blocos": [
-        { "id": "E1", "tipo": "estrofe", "linhas": ["Ajoelhe-se para a Consagração.", "Quem não puder, permaneça de pé, em silêncio."] }
+        {
+          "id": "E1",
+          "tipo": "estrofe",
+          "linhas": [
+            "Ajoelhe-se para a Consagração.",
+            "Quem não puder, permaneça de pé, em silêncio."
+          ]
+        }
       ],
-      "ordem": ["E1"],
-      "momentos": ["consagracao"],
+      "ordem": [
+        "E1"
+      ],
+      "momentos": [
+        "consagracao"
+      ],
       "tempos": []
     },
     {
@@ -19,11 +31,23 @@
       "categoria": "texto",
       "titulo": "Pai-Nosso: não se diz amém",
       "fonte": "Orientação escrita pelo projeto.",
+      "direitos": "projeto",
       "blocos": [
-        { "id": "E1", "tipo": "estrofe", "linhas": ["Após o Pai-Nosso não se diz “amém”.", "O padre continua: “Livrai-nos de todos os males, ó Pai…”"] }
+        {
+          "id": "E1",
+          "tipo": "estrofe",
+          "linhas": [
+            "Após o Pai-Nosso não se diz “amém”.",
+            "O padre continua: “Livrai-nos de todos os males, ó Pai…”"
+          ]
+        }
       ],
-      "ordem": ["E1"],
-      "momentos": ["pai-nosso"],
+      "ordem": [
+        "E1"
+      ],
+      "momentos": [
+        "pai-nosso"
+      ],
       "tempos": []
     },
     {
@@ -31,11 +55,24 @@
       "categoria": "texto",
       "titulo": "Silencie o celular",
       "fonte": "Orientação escrita pelo projeto.",
+      "direitos": "projeto",
       "blocos": [
-        { "id": "E1", "tipo": "estrofe", "linhas": ["Bem-vindos!", "Por favor, silencie o celular."] }
+        {
+          "id": "E1",
+          "tipo": "estrofe",
+          "linhas": [
+            "Bem-vindos!",
+            "Por favor, silencie o celular."
+          ]
+        }
       ],
-      "ordem": ["E1"],
-      "momentos": ["entrada", "outro"],
+      "ordem": [
+        "E1"
+      ],
+      "momentos": [
+        "entrada",
+        "outro"
+      ],
       "tempos": []
     },
     {
@@ -43,11 +80,22 @@
       "categoria": "texto",
       "titulo": "De pé para o Evangelho",
       "fonte": "Orientação escrita pelo projeto.",
+      "direitos": "projeto",
       "blocos": [
-        { "id": "E1", "tipo": "estrofe", "linhas": ["De pé, para ouvir o Evangelho."] }
+        {
+          "id": "E1",
+          "tipo": "estrofe",
+          "linhas": [
+            "De pé, para ouvir o Evangelho."
+          ]
+        }
       ],
-      "ordem": ["E1"],
-      "momentos": ["aclamacao"],
+      "ordem": [
+        "E1"
+      ],
+      "momentos": [
+        "aclamacao"
+      ],
       "tempos": []
     },
     {
@@ -55,11 +103,24 @@
       "categoria": "texto",
       "titulo": "Comunhão: responda “Amém”",
       "fonte": "Orientação escrita pelo projeto.",
+      "direitos": "projeto",
       "blocos": [
-        { "id": "E1", "tipo": "estrofe", "linhas": ["Ao receber a Comunhão, o ministro diz:", "“O Corpo de Cristo.”", "Responda: “Amém.”"] }
+        {
+          "id": "E1",
+          "tipo": "estrofe",
+          "linhas": [
+            "Ao receber a Comunhão, o ministro diz:",
+            "“O Corpo de Cristo.”",
+            "Responda: “Amém.”"
+          ]
+        }
       ],
-      "ordem": ["E1"],
-      "momentos": ["comunhao"],
+      "ordem": [
+        "E1"
+      ],
+      "momentos": [
+        "comunhao"
+      ],
       "tempos": []
     },
     {
@@ -67,12 +128,41 @@
       "categoria": "texto",
       "titulo": "Alma de Cristo",
       "fonte": "Oração tradicional (Anima Christi, séc. XIV), tradução portuguesa tradicional.",
+      "direitos": "dominio-publico",
       "blocos": [
-        { "id": "E1", "tipo": "estrofe", "linhas": ["Alma de Cristo, santificai-me.", "Corpo de Cristo, salvai-me.", "Sangue de Cristo, inebriai-me.", "Água do lado de Cristo, lavai-me.", "Paixão de Cristo, confortai-me.", "Ó bom Jesus, ouvi-me."] },
-        { "id": "E2", "tipo": "estrofe", "linhas": ["Dentro de vossas chagas, escondei-me.", "Não permitais que eu me separe de vós.", "Do espírito maligno, defendei-me.", "Na hora da minha morte, chamai-me", "e mandai-me ir para vós,", "para que com os vossos santos vos louve", "por todos os séculos dos séculos. Amém."] }
+        {
+          "id": "E1",
+          "tipo": "estrofe",
+          "linhas": [
+            "Alma de Cristo, santificai-me.",
+            "Corpo de Cristo, salvai-me.",
+            "Sangue de Cristo, inebriai-me.",
+            "Água do lado de Cristo, lavai-me.",
+            "Paixão de Cristo, confortai-me.",
+            "Ó bom Jesus, ouvi-me."
+          ]
+        },
+        {
+          "id": "E2",
+          "tipo": "estrofe",
+          "linhas": [
+            "Dentro de vossas chagas, escondei-me.",
+            "Não permitais que eu me separe de vós.",
+            "Do espírito maligno, defendei-me.",
+            "Na hora da minha morte, chamai-me",
+            "e mandai-me ir para vós,",
+            "para que com os vossos santos vos louve",
+            "por todos os séculos dos séculos. Amém."
+          ]
+        }
       ],
-      "ordem": ["E1", "E2"],
-      "momentos": ["pos-comunhao"],
+      "ordem": [
+        "E1",
+        "E2"
+      ],
+      "momentos": [
+        "pos-comunhao"
+      ],
       "tempos": []
     },
     {
@@ -80,12 +170,39 @@
       "categoria": "texto",
       "titulo": "Pai-Nosso",
       "fonte": "Oração tradicional (Mt 6,9-13). Sem “amém”, como na missa.",
+      "direitos": "dominio-publico",
       "blocos": [
-        { "id": "E1", "tipo": "estrofe", "linhas": ["Pai nosso que estais nos céus,", "santificado seja o vosso nome;", "venha a nós o vosso reino,", "seja feita a vossa vontade,", "assim na terra como no céu."] },
-        { "id": "E2", "tipo": "estrofe", "linhas": ["O pão nosso de cada dia nos dai hoje;", "perdoai-nos as nossas ofensas,", "assim como nós perdoamos", "a quem nos tem ofendido,", "e não nos deixeis cair em tentação,", "mas livrai-nos do mal."] }
+        {
+          "id": "E1",
+          "tipo": "estrofe",
+          "linhas": [
+            "Pai nosso que estais nos céus,",
+            "santificado seja o vosso nome;",
+            "venha a nós o vosso reino,",
+            "seja feita a vossa vontade,",
+            "assim na terra como no céu."
+          ]
+        },
+        {
+          "id": "E2",
+          "tipo": "estrofe",
+          "linhas": [
+            "O pão nosso de cada dia nos dai hoje;",
+            "perdoai-nos as nossas ofensas,",
+            "assim como nós perdoamos",
+            "a quem nos tem ofendido,",
+            "e não nos deixeis cair em tentação,",
+            "mas livrai-nos do mal."
+          ]
+        }
       ],
-      "ordem": ["E1", "E2"],
-      "momentos": ["pai-nosso"],
+      "ordem": [
+        "E1",
+        "E2"
+      ],
+      "momentos": [
+        "pai-nosso"
+      ],
       "tempos": []
     },
     {
@@ -93,12 +210,33 @@
       "categoria": "canto",
       "titulo": "Kyrie eleison",
       "fonte": "Ordinário da missa em grego/latim (domínio público).",
+      "direitos": "dominio-publico",
       "blocos": [
-        { "id": "E1", "tipo": "estrofe", "linhas": ["Kyrie, eleison.", "Kyrie, eleison."] },
-        { "id": "E2", "tipo": "estrofe", "linhas": ["Christe, eleison.", "Christe, eleison."] }
+        {
+          "id": "E1",
+          "tipo": "estrofe",
+          "linhas": [
+            "Kyrie, eleison.",
+            "Kyrie, eleison."
+          ]
+        },
+        {
+          "id": "E2",
+          "tipo": "estrofe",
+          "linhas": [
+            "Christe, eleison.",
+            "Christe, eleison."
+          ]
+        }
       ],
-      "ordem": ["E1", "E2", "E1"],
-      "momentos": ["ato-penitencial"],
+      "ordem": [
+        "E1",
+        "E2",
+        "E1"
+      ],
+      "momentos": [
+        "ato-penitencial"
+      ],
       "tempos": []
     },
     {
@@ -106,27 +244,97 @@
       "categoria": "canto",
       "titulo": "Gloria in excelsis Deo",
       "fonte": "Ordinário da missa em latim (domínio público).",
+      "direitos": "dominio-publico",
       "blocos": [
-        { "id": "E1", "tipo": "estrofe", "linhas": ["Gloria in excelsis Deo", "et in terra pax hominibus bonae voluntatis.", "Laudamus te, benedicimus te,", "adoramus te, glorificamus te,", "gratias agimus tibi propter magnam gloriam tuam,"] },
-        { "id": "E2", "tipo": "estrofe", "linhas": ["Domine Deus, Rex caelestis,", "Deus Pater omnipotens.", "Domine Fili unigenite, Iesu Christe,", "Domine Deus, Agnus Dei, Filius Patris,"] },
-        { "id": "E3", "tipo": "estrofe", "linhas": ["qui tollis peccata mundi, miserere nobis;", "qui tollis peccata mundi, suscipe deprecationem nostram.", "Qui sedes ad dexteram Patris, miserere nobis."] },
-        { "id": "E4", "tipo": "estrofe", "linhas": ["Quoniam tu solus Sanctus, tu solus Dominus,", "tu solus Altissimus, Iesu Christe,", "cum Sancto Spiritu: in gloria Dei Patris. Amen."] }
+        {
+          "id": "E1",
+          "tipo": "estrofe",
+          "linhas": [
+            "Gloria in excelsis Deo",
+            "et in terra pax hominibus bonae voluntatis.",
+            "Laudamus te, benedicimus te,",
+            "adoramus te, glorificamus te,",
+            "gratias agimus tibi propter magnam gloriam tuam,"
+          ]
+        },
+        {
+          "id": "E2",
+          "tipo": "estrofe",
+          "linhas": [
+            "Domine Deus, Rex caelestis,",
+            "Deus Pater omnipotens.",
+            "Domine Fili unigenite, Iesu Christe,",
+            "Domine Deus, Agnus Dei, Filius Patris,"
+          ]
+        },
+        {
+          "id": "E3",
+          "tipo": "estrofe",
+          "linhas": [
+            "qui tollis peccata mundi, miserere nobis;",
+            "qui tollis peccata mundi, suscipe deprecationem nostram.",
+            "Qui sedes ad dexteram Patris, miserere nobis."
+          ]
+        },
+        {
+          "id": "E4",
+          "tipo": "estrofe",
+          "linhas": [
+            "Quoniam tu solus Sanctus, tu solus Dominus,",
+            "tu solus Altissimus, Iesu Christe,",
+            "cum Sancto Spiritu: in gloria Dei Patris. Amen."
+          ]
+        }
       ],
-      "ordem": ["E1", "E2", "E3", "E4"],
-      "momentos": ["gloria"],
-      "tempos": ["natal", "pascoa", "comum", "triduo"]
+      "ordem": [
+        "E1",
+        "E2",
+        "E3",
+        "E4"
+      ],
+      "momentos": [
+        "gloria"
+      ],
+      "tempos": [
+        "natal",
+        "pascoa",
+        "comum",
+        "triduo"
+      ]
     },
     {
       "id": "sanctus",
       "categoria": "canto",
       "titulo": "Sanctus",
       "fonte": "Ordinário da missa em latim (domínio público).",
+      "direitos": "dominio-publico",
       "blocos": [
-        { "id": "E1", "tipo": "estrofe", "linhas": ["Sanctus, Sanctus, Sanctus", "Dominus Deus Sabaoth.", "Pleni sunt caeli et terra gloria tua.", "Hosanna in excelsis."] },
-        { "id": "E2", "tipo": "estrofe", "linhas": ["Benedictus qui venit in nomine Domini.", "Hosanna in excelsis."] }
+        {
+          "id": "E1",
+          "tipo": "estrofe",
+          "linhas": [
+            "Sanctus, Sanctus, Sanctus",
+            "Dominus Deus Sabaoth.",
+            "Pleni sunt caeli et terra gloria tua.",
+            "Hosanna in excelsis."
+          ]
+        },
+        {
+          "id": "E2",
+          "tipo": "estrofe",
+          "linhas": [
+            "Benedictus qui venit in nomine Domini.",
+            "Hosanna in excelsis."
+          ]
+        }
       ],
-      "ordem": ["E1", "E2"],
-      "momentos": ["santo"],
+      "ordem": [
+        "E1",
+        "E2"
+      ],
+      "momentos": [
+        "santo"
+      ],
       "tempos": []
     },
     {
@@ -134,12 +342,33 @@
       "categoria": "canto",
       "titulo": "Agnus Dei",
       "fonte": "Ordinário da missa em latim (domínio público).",
+      "direitos": "dominio-publico",
       "blocos": [
-        { "id": "E1", "tipo": "estrofe", "linhas": ["Agnus Dei, qui tollis peccata mundi:", "miserere nobis."] },
-        { "id": "E2", "tipo": "estrofe", "linhas": ["Agnus Dei, qui tollis peccata mundi:", "dona nobis pacem."] }
+        {
+          "id": "E1",
+          "tipo": "estrofe",
+          "linhas": [
+            "Agnus Dei, qui tollis peccata mundi:",
+            "miserere nobis."
+          ]
+        },
+        {
+          "id": "E2",
+          "tipo": "estrofe",
+          "linhas": [
+            "Agnus Dei, qui tollis peccata mundi:",
+            "dona nobis pacem."
+          ]
+        }
       ],
-      "ordem": ["E1", "E1", "E2"],
-      "momentos": ["cordeiro"],
+      "ordem": [
+        "E1",
+        "E1",
+        "E2"
+      ],
+      "momentos": [
+        "cordeiro"
+      ],
       "tempos": []
     },
     {
@@ -147,12 +376,36 @@
       "categoria": "canto",
       "titulo": "Ubi caritas",
       "fonte": "Hino latino tradicional (domínio público).",
+      "direitos": "dominio-publico",
       "blocos": [
-        { "id": "R", "tipo": "refrao", "linhas": ["Ubi caritas et amor,", "Deus ibi est."] },
-        { "id": "E1", "tipo": "estrofe", "linhas": ["Congregavit nos in unum Christi amor.", "Exsultemus, et in ipso iucundemur.", "Timeamus, et amemus Deum vivum.", "Et ex corde diligamus nos sincero."] }
+        {
+          "id": "R",
+          "tipo": "refrao",
+          "linhas": [
+            "Ubi caritas et amor,",
+            "Deus ibi est."
+          ]
+        },
+        {
+          "id": "E1",
+          "tipo": "estrofe",
+          "linhas": [
+            "Congregavit nos in unum Christi amor.",
+            "Exsultemus, et in ipso iucundemur.",
+            "Timeamus, et amemus Deum vivum.",
+            "Et ex corde diligamus nos sincero."
+          ]
+        }
       ],
-      "ordem": ["R", "E1", "R"],
-      "momentos": ["ofertorio", "comunhao"],
+      "ordem": [
+        "R",
+        "E1",
+        "R"
+      ],
+      "momentos": [
+        "ofertorio",
+        "comunhao"
+      ],
       "tempos": []
     },
     {
@@ -161,14 +414,59 @@
       "titulo": "Adoro te devote",
       "autor": "Atribuído a Santo Tomás de Aquino (séc. XIII)",
       "fonte": "Hino latino tradicional (domínio público).",
+      "direitos": "dominio-publico",
       "blocos": [
-        { "id": "E1", "tipo": "estrofe", "linhas": ["Adoro te devote, latens Deitas,", "quae sub his figuris vere latitas:", "tibi se cor meum totum subicit,", "quia te contemplans totum deficit."] },
-        { "id": "E2", "tipo": "estrofe", "linhas": ["Visus, tactus, gustus in te fallitur,", "sed auditu solo tuto creditur;", "credo quidquid dixit Dei Filius:", "nil hoc verbo Veritatis verius."] },
-        { "id": "E3", "tipo": "estrofe", "linhas": ["In cruce latebat sola Deitas,", "at hic latet simul et humanitas;", "ambo tamen credens atque confitens,", "peto quod petivit latro paenitens."] },
-        { "id": "E4", "tipo": "estrofe", "linhas": ["Iesu, quem velatum nunc aspicio,", "oro fiat illud quod tam sitio:", "ut te revelata cernens facie,", "visu sim beatus tuae gloriae. Amen."] }
+        {
+          "id": "E1",
+          "tipo": "estrofe",
+          "linhas": [
+            "Adoro te devote, latens Deitas,",
+            "quae sub his figuris vere latitas:",
+            "tibi se cor meum totum subicit,",
+            "quia te contemplans totum deficit."
+          ]
+        },
+        {
+          "id": "E2",
+          "tipo": "estrofe",
+          "linhas": [
+            "Visus, tactus, gustus in te fallitur,",
+            "sed auditu solo tuto creditur;",
+            "credo quidquid dixit Dei Filius:",
+            "nil hoc verbo Veritatis verius."
+          ]
+        },
+        {
+          "id": "E3",
+          "tipo": "estrofe",
+          "linhas": [
+            "In cruce latebat sola Deitas,",
+            "at hic latet simul et humanitas;",
+            "ambo tamen credens atque confitens,",
+            "peto quod petivit latro paenitens."
+          ]
+        },
+        {
+          "id": "E4",
+          "tipo": "estrofe",
+          "linhas": [
+            "Iesu, quem velatum nunc aspicio,",
+            "oro fiat illud quod tam sitio:",
+            "ut te revelata cernens facie,",
+            "visu sim beatus tuae gloriae. Amen."
+          ]
+        }
       ],
-      "ordem": ["E1", "E2", "E3", "E4"],
-      "momentos": ["comunhao", "pos-comunhao"],
+      "ordem": [
+        "E1",
+        "E2",
+        "E3",
+        "E4"
+      ],
+      "momentos": [
+        "comunhao",
+        "pos-comunhao"
+      ],
       "tempos": []
     },
     {
@@ -177,12 +475,41 @@
       "titulo": "Tantum ergo",
       "autor": "Santo Tomás de Aquino (séc. XIII)",
       "fonte": "Hino latino tradicional (domínio público).",
+      "direitos": "dominio-publico",
       "blocos": [
-        { "id": "E1", "tipo": "estrofe", "linhas": ["Tantum ergo Sacramentum", "veneremur cernui:", "et antiquum documentum", "novo cedat ritui:", "praestet fides supplementum", "sensuum defectui."] },
-        { "id": "E2", "tipo": "estrofe", "linhas": ["Genitori, Genitoque", "laus et iubilatio,", "salus, honor, virtus quoque", "sit et benedictio:", "procedenti ab utroque", "compar sit laudatio. Amen."] }
+        {
+          "id": "E1",
+          "tipo": "estrofe",
+          "linhas": [
+            "Tantum ergo Sacramentum",
+            "veneremur cernui:",
+            "et antiquum documentum",
+            "novo cedat ritui:",
+            "praestet fides supplementum",
+            "sensuum defectui."
+          ]
+        },
+        {
+          "id": "E2",
+          "tipo": "estrofe",
+          "linhas": [
+            "Genitori, Genitoque",
+            "laus et iubilatio,",
+            "salus, honor, virtus quoque",
+            "sit et benedictio:",
+            "procedenti ab utroque",
+            "compar sit laudatio. Amen."
+          ]
+        }
       ],
-      "ordem": ["E1", "E2"],
-      "momentos": ["comunhao", "pos-comunhao"],
+      "ordem": [
+        "E1",
+        "E2"
+      ],
+      "momentos": [
+        "comunhao",
+        "pos-comunhao"
+      ],
       "tempos": []
     },
     {
@@ -191,12 +518,37 @@
       "titulo": "O salutaris Hostia",
       "autor": "Santo Tomás de Aquino (séc. XIII)",
       "fonte": "Hino latino tradicional (domínio público).",
+      "direitos": "dominio-publico",
       "blocos": [
-        { "id": "E1", "tipo": "estrofe", "linhas": ["O salutaris Hostia,", "quae caeli pandis ostium:", "bella premunt hostilia,", "da robur, fer auxilium."] },
-        { "id": "E2", "tipo": "estrofe", "linhas": ["Uni trinoque Domino", "sit sempiterna gloria,", "qui vitam sine termino", "nobis donet in patria. Amen."] }
+        {
+          "id": "E1",
+          "tipo": "estrofe",
+          "linhas": [
+            "O salutaris Hostia,",
+            "quae caeli pandis ostium:",
+            "bella premunt hostilia,",
+            "da robur, fer auxilium."
+          ]
+        },
+        {
+          "id": "E2",
+          "tipo": "estrofe",
+          "linhas": [
+            "Uni trinoque Domino",
+            "sit sempiterna gloria,",
+            "qui vitam sine termino",
+            "nobis donet in patria. Amen."
+          ]
+        }
       ],
-      "ordem": ["E1", "E2"],
-      "momentos": ["comunhao", "pos-comunhao"],
+      "ordem": [
+        "E1",
+        "E2"
+      ],
+      "momentos": [
+        "comunhao",
+        "pos-comunhao"
+      ],
       "tempos": []
     },
     {
@@ -204,13 +556,48 @@
       "categoria": "canto",
       "titulo": "Veni Creator Spiritus",
       "fonte": "Hino latino tradicional (séc. IX, domínio público).",
+      "direitos": "dominio-publico",
       "blocos": [
-        { "id": "E1", "tipo": "estrofe", "linhas": ["Veni, Creator Spiritus,", "mentes tuorum visita,", "imple superna gratia,", "quae tu creasti pectora."] },
-        { "id": "E2", "tipo": "estrofe", "linhas": ["Qui diceris Paraclitus,", "altissimi donum Dei,", "fons vivus, ignis, caritas,", "et spiritalis unctio."] },
-        { "id": "E3", "tipo": "estrofe", "linhas": ["Deo Patri sit gloria,", "et Filio, qui a mortuis", "surrexit, ac Paraclito,", "in saeculorum saecula. Amen."] }
+        {
+          "id": "E1",
+          "tipo": "estrofe",
+          "linhas": [
+            "Veni, Creator Spiritus,",
+            "mentes tuorum visita,",
+            "imple superna gratia,",
+            "quae tu creasti pectora."
+          ]
+        },
+        {
+          "id": "E2",
+          "tipo": "estrofe",
+          "linhas": [
+            "Qui diceris Paraclitus,",
+            "altissimi donum Dei,",
+            "fons vivus, ignis, caritas,",
+            "et spiritalis unctio."
+          ]
+        },
+        {
+          "id": "E3",
+          "tipo": "estrofe",
+          "linhas": [
+            "Deo Patri sit gloria,",
+            "et Filio, qui a mortuis",
+            "surrexit, ac Paraclito,",
+            "in saeculorum saecula. Amen."
+          ]
+        }
       ],
-      "ordem": ["E1", "E2", "E3"],
-      "momentos": ["entrada", "final"],
+      "ordem": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "momentos": [
+        "entrada",
+        "final"
+      ],
       "tempos": []
     },
     {
@@ -218,65 +605,208 @@
       "categoria": "canto",
       "titulo": "Rorate caeli",
       "fonte": "Canto gregoriano do Advento (Is 45,8; domínio público).",
+      "direitos": "dominio-publico",
       "blocos": [
-        { "id": "R", "tipo": "refrao", "linhas": ["Rorate caeli desuper,", "et nubes pluant iustum."] },
-        { "id": "E1", "tipo": "estrofe", "linhas": ["Ne irascaris, Domine,", "ne ultra memineris iniquitatis:", "ecce civitas Sancti facta est deserta:", "Sion deserta facta est:", "Ierusalem desolata est:", "domus sanctificationis tuae et gloriae tuae,", "ubi laudaverunt te patres nostri."] }
+        {
+          "id": "R",
+          "tipo": "refrao",
+          "linhas": [
+            "Rorate caeli desuper,",
+            "et nubes pluant iustum."
+          ]
+        },
+        {
+          "id": "E1",
+          "tipo": "estrofe",
+          "linhas": [
+            "Ne irascaris, Domine,",
+            "ne ultra memineris iniquitatis:",
+            "ecce civitas Sancti facta est deserta:",
+            "Sion deserta facta est:",
+            "Ierusalem desolata est:",
+            "domus sanctificationis tuae et gloriae tuae,",
+            "ubi laudaverunt te patres nostri."
+          ]
+        }
       ],
-      "ordem": ["R", "E1", "R"],
-      "momentos": ["entrada", "ofertorio"],
-      "tempos": ["advento"]
+      "ordem": [
+        "R",
+        "E1",
+        "R"
+      ],
+      "momentos": [
+        "entrada",
+        "ofertorio"
+      ],
+      "tempos": [
+        "advento"
+      ]
     },
     {
       "id": "adeste-fideles",
       "categoria": "canto",
       "titulo": "Adeste fideles",
       "fonte": "Hino latino tradicional (séc. XVIII, domínio público).",
+      "direitos": "dominio-publico",
       "blocos": [
-        { "id": "E1", "tipo": "estrofe", "linhas": ["Adeste fideles, laeti triumphantes,", "venite, venite in Bethlehem.", "Natum videte Regem angelorum."] },
-        { "id": "R", "tipo": "refrao", "linhas": ["Venite adoremus, venite adoremus,", "venite adoremus Dominum."] },
-        { "id": "E2", "tipo": "estrofe", "linhas": ["En grege relicto, humiles ad cunas", "vocati pastores approperant:", "et nos ovanti gradu festinemus."] }
+        {
+          "id": "E1",
+          "tipo": "estrofe",
+          "linhas": [
+            "Adeste fideles, laeti triumphantes,",
+            "venite, venite in Bethlehem.",
+            "Natum videte Regem angelorum."
+          ]
+        },
+        {
+          "id": "R",
+          "tipo": "refrao",
+          "linhas": [
+            "Venite adoremus, venite adoremus,",
+            "venite adoremus Dominum."
+          ]
+        },
+        {
+          "id": "E2",
+          "tipo": "estrofe",
+          "linhas": [
+            "En grege relicto, humiles ad cunas",
+            "vocati pastores approperant:",
+            "et nos ovanti gradu festinemus."
+          ]
+        }
       ],
-      "ordem": ["E1", "R", "E2", "R"],
-      "momentos": ["entrada", "final"],
-      "tempos": ["natal"]
+      "ordem": [
+        "E1",
+        "R",
+        "E2",
+        "R"
+      ],
+      "momentos": [
+        "entrada",
+        "final"
+      ],
+      "tempos": [
+        "natal"
+      ]
     },
     {
       "id": "attende-domine",
       "categoria": "canto",
       "titulo": "Attende Domine",
       "fonte": "Canto gregoriano da Quaresma (domínio público).",
+      "direitos": "dominio-publico",
       "blocos": [
-        { "id": "R", "tipo": "refrao", "linhas": ["Attende, Domine, et miserere,", "quia peccavimus tibi."] },
-        { "id": "E1", "tipo": "estrofe", "linhas": ["Ad te Rex summe, omnium redemptor,", "oculos nostros sublevamus flentes:", "exaudi, Christe, supplicantum preces."] },
-        { "id": "E2", "tipo": "estrofe", "linhas": ["Dextera Patris, lapis angularis,", "via salutis, ianua caelestis,", "ablue nostri maculas delicti."] }
+        {
+          "id": "R",
+          "tipo": "refrao",
+          "linhas": [
+            "Attende, Domine, et miserere,",
+            "quia peccavimus tibi."
+          ]
+        },
+        {
+          "id": "E1",
+          "tipo": "estrofe",
+          "linhas": [
+            "Ad te Rex summe, omnium redemptor,",
+            "oculos nostros sublevamus flentes:",
+            "exaudi, Christe, supplicantum preces."
+          ]
+        },
+        {
+          "id": "E2",
+          "tipo": "estrofe",
+          "linhas": [
+            "Dextera Patris, lapis angularis,",
+            "via salutis, ianua caelestis,",
+            "ablue nostri maculas delicti."
+          ]
+        }
       ],
-      "ordem": ["R", "E1", "R", "E2", "R"],
-      "momentos": ["entrada", "ato-penitencial", "ofertorio"],
-      "tempos": ["quaresma"]
+      "ordem": [
+        "R",
+        "E1",
+        "R",
+        "E2",
+        "R"
+      ],
+      "momentos": [
+        "entrada",
+        "ato-penitencial",
+        "ofertorio"
+      ],
+      "tempos": [
+        "quaresma"
+      ]
     },
     {
       "id": "regina-caeli",
       "categoria": "canto",
       "titulo": "Regina caeli",
       "fonte": "Antífona mariana do Tempo Pascal (domínio público).",
+      "direitos": "dominio-publico",
       "blocos": [
-        { "id": "E1", "tipo": "estrofe", "linhas": ["Regina caeli, laetare, alleluia.", "Quia quem meruisti portare, alleluia.", "Resurrexit, sicut dixit, alleluia.", "Ora pro nobis Deum, alleluia."] }
+        {
+          "id": "E1",
+          "tipo": "estrofe",
+          "linhas": [
+            "Regina caeli, laetare, alleluia.",
+            "Quia quem meruisti portare, alleluia.",
+            "Resurrexit, sicut dixit, alleluia.",
+            "Ora pro nobis Deum, alleluia."
+          ]
+        }
       ],
-      "ordem": ["E1"],
-      "momentos": ["final", "mariano"],
-      "tempos": ["pascoa"]
+      "ordem": [
+        "E1"
+      ],
+      "momentos": [
+        "final",
+        "mariano"
+      ],
+      "tempos": [
+        "pascoa"
+      ]
     },
     {
       "id": "salve-regina",
       "categoria": "canto",
       "titulo": "Salve Regina",
       "fonte": "Antífona mariana (séc. XI, domínio público).",
+      "direitos": "dominio-publico",
       "blocos": [
-        { "id": "E1", "tipo": "estrofe", "linhas": ["Salve, Regina, mater misericordiae;", "vita, dulcedo et spes nostra, salve.", "Ad te clamamus, exsules filii Hevae.", "Ad te suspiramus, gementes et flentes", "in hac lacrimarum valle."] },
-        { "id": "E2", "tipo": "estrofe", "linhas": ["Eia ergo, advocata nostra,", "illos tuos misericordes oculos ad nos converte.", "Et Iesum, benedictum fructum ventris tui,", "nobis post hoc exsilium ostende.", "O clemens, O pia, O dulcis Virgo Maria."] }
+        {
+          "id": "E1",
+          "tipo": "estrofe",
+          "linhas": [
+            "Salve, Regina, mater misericordiae;",
+            "vita, dulcedo et spes nostra, salve.",
+            "Ad te clamamus, exsules filii Hevae.",
+            "Ad te suspiramus, gementes et flentes",
+            "in hac lacrimarum valle."
+          ]
+        },
+        {
+          "id": "E2",
+          "tipo": "estrofe",
+          "linhas": [
+            "Eia ergo, advocata nostra,",
+            "illos tuos misericordes oculos ad nos converte.",
+            "Et Iesum, benedictum fructum ventris tui,",
+            "nobis post hoc exsilium ostende.",
+            "O clemens, O pia, O dulcis Virgo Maria."
+          ]
+        }
       ],
-      "ordem": ["E1", "E2"],
-      "momentos": ["final", "mariano"],
+      "ordem": [
+        "E1",
+        "E2"
+      ],
+      "momentos": [
+        "final",
+        "mariano"
+      ],
       "tempos": []
     },
     {
@@ -284,12 +814,37 @@
       "categoria": "canto",
       "titulo": "Ave Maria (latim)",
       "fonte": "Oração tradicional em latim (domínio público).",
+      "direitos": "dominio-publico",
       "blocos": [
-        { "id": "E1", "tipo": "estrofe", "linhas": ["Ave Maria, gratia plena, Dominus tecum.", "Benedicta tu in mulieribus,", "et benedictus fructus ventris tui, Iesus."] },
-        { "id": "E2", "tipo": "estrofe", "linhas": ["Sancta Maria, Mater Dei,", "ora pro nobis peccatoribus,", "nunc et in hora mortis nostrae. Amen."] }
+        {
+          "id": "E1",
+          "tipo": "estrofe",
+          "linhas": [
+            "Ave Maria, gratia plena, Dominus tecum.",
+            "Benedicta tu in mulieribus,",
+            "et benedictus fructus ventris tui, Iesus."
+          ]
+        },
+        {
+          "id": "E2",
+          "tipo": "estrofe",
+          "linhas": [
+            "Sancta Maria, Mater Dei,",
+            "ora pro nobis peccatoribus,",
+            "nunc et in hora mortis nostrae. Amen."
+          ]
+        }
       ],
-      "ordem": ["E1", "E2"],
-      "momentos": ["ofertorio", "comunhao", "final", "mariano"],
+      "ordem": [
+        "E1",
+        "E2"
+      ],
+      "momentos": [
+        "ofertorio",
+        "comunhao",
+        "final",
+        "mariano"
+      ],
       "tempos": []
     }
   ]

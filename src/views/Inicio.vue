@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { ref } from 'vue';
 import { useRouter } from 'vue-router';
+import MeusCantos from '../components/MeusCantos.vue';
 import ResumoLiturgia from '../components/ResumoLiturgia.vue';
 import { usePreviaLiturgia } from '../composables/usePreviaLiturgia.ts';
 import { HEX_COR } from '../liturgia/calendario.ts';
@@ -106,6 +107,8 @@ function apagar(m: Missa) {
         </li>
       </ul>
     </section>
+
+    <MeusCantos />
 
     <dialog ref="dialogo">
       <h2>Duplicar missa</h2>

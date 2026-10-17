@@ -1,0 +1,33 @@
+name: Pedido de remoção de canto ou texto
+description: Para autores, editoras ou representantes que querem retirar uma obra da biblioteca do projeto.
+title: 'Remoção: '
+labels: ['remocao']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por entrar em contato. Pedidos de remoção são atendidos, sem discussão, assim que conseguirmos confirmar o pedido.
+        Atenção: este formulário é **público**. Não coloque aqui telefone, endereço ou documentos.
+  - type: input
+    id: obra
+    attributes:
+      label: Título do canto ou texto
+      description: Como aparece no app.
+    validations:
+      required: true
+  - type: dropdown
+    id: relacao
+    attributes:
+      label: Sua relação com a obra
+      options:
+        - Sou o autor ou a autora
+        - Represento a editora
+        - Represento o autor ou a autora
+        - Outra
+    validations:
+      required: true
+  - type: textarea
+    id: detalhes
+    attributes:
+      label: Detalhes
+      description: Qualquer informação que ajude a identificar a obra e confirmar o pedido.

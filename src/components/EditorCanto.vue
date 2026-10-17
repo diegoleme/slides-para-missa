@@ -92,6 +92,7 @@ function trechoDaLetra(it: ItemBiblioteca) {
             {{ item.origem === 'usuario' ? 'Cadastrado por você' : 'Biblioteca do projeto' }}
             <template v-if="item.autor"> · {{ item.autor }}</template>
           </p>
+          <p v-if="item.fonte" class="pequeno suave">{{ item.fonte }}</p>
         </div>
         <button @click="modo = 'buscar'">Trocar</button>
         <button @click="modo = 'editar'">Editar letra</button>

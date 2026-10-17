@@ -50,6 +50,14 @@ export interface Bloco {
   linhas: string[];
 }
 
+/**
+ * - dominio-publico: obra e tradução em domínio público;
+ * - projeto: texto escrito pelo projeto;
+ * - autorizado: o autor ou a editora autorizou (registrar em "fonte");
+ * - sem-autorizacao: incluído sem autorização; sai se o autor pedir.
+ */
+export type SituacaoDireitos = 'dominio-publico' | 'projeto' | 'autorizado' | 'sem-autorizacao';
+
 /** Um item da biblioteca: canto ou texto (oração, orientação). */
 export interface ItemBiblioteca {
   id: string;
@@ -58,6 +66,8 @@ export interface ItemBiblioteca {
   autor?: string;
   /** Observação sobre fonte e direitos. */
   fonte?: string;
+  /** Situação de direitos (só na biblioteca do projeto). */
+  direitos?: SituacaoDireitos;
   blocos: Bloco[];
   /** Ordem de canto: ids de blocos, com repetição (ex.: R, E1, R, E2, R). */
   ordem: string[];
