@@ -76,6 +76,27 @@ export function dataEmBrasilia(iso: string): string {
   }).format(instante);
 }
 
+const DIAS_SEMANA = ['domingo', 'segunda', 'terca', 'quarta', 'quinta', 'sexta', 'sabado'];
+
+/**
+ * Confere a data de publicação com o cabeçalho ("24 – QUARTA-FEIRA").
+ * A Paulus às vezes agenda a página no dia errado; nesse caso, vale a data
+ * mais próxima (até 7 dias) que tenha o mesmo dia do mês e o mesmo dia da semana.
+ */
+export function conferirData(dataPublicada: string, cabecalho: string): string {
+  const semAcento = cabecalho.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+  const numero = semAcento.match(/^\s*(?:dia\s*)?(\d{1,2})/)?.[1];
+  if (!numero) return dataPublicada;
+  const diaDoMes = Number(numero);
+  const semana = DIAS_SEMANA.findIndex((d) => semAcento.includes(d));
+  const base = new Date(dataPublicada + 'T12:00:00Z');
+  for (const distancia of [0, -1, 1, -2, 2, -3, 3, -4, 4, -5, 5, -6, 6, -7, 7]) {
+    const d = new Date(base.getTime() + distancia * 86400000);
+    if (d.getUTCDate() === diaDoMes && (semana < 0 || d.getUTCDay() === semana)) return d.toISOString().slice(0, 10);
+  }
+  return dataPublicada;
+}
+
 function meta(html: string, propriedade: string): string {
   const re = new RegExp(`<meta[^>]+property="${propriedade}"[^>]+content="([^"]*)"`, 'i');
   const m = html.match(re);
@@ -142,11 +163,12 @@ const CORES = ['branco', 'verde', 'roxo', 'vermelho', 'rosa', 'preto'];
  */
 export function lerPaginaDoDia(html: string, entrada: EntradaSitemap): DiaPaulus | null {
   const publicado = meta(html, 'article:published_time');
-  const data = dataEmBrasilia(publicado);
-  if (!data) return null;
+  const dataPublicada = dataEmBrasilia(publicado);
+  if (!dataPublicada) return null;
 
   const mCabecalho = html.match(/<div class="titulo-liturgia">([\s\S]*?)<div class="botoes-zoom">/);
   const cabecalho = mCabecalho ? htmlParaTexto(mCabecalho[1]) : '';
+  const data = conferirData(dataPublicada, cabecalho);
 
   const inicioTexto = html.indexOf('<div id="texto">');
   if (inicioTexto < 0) return null;
@@ -155,8 +177,11 @@ export function lerPaginaDoDia(html: string, entrada: EntradaSitemap): DiaPaulus
   const marcador = '<div class="subtitulo-liturgia">';
   const pedacos = texto.split(marcador);
   const linhasCabecalho = paragrafos(pedacos[0]).flatMap((p) => p.split('\n'));
-  const celebracao = linhasCabecalho[0] ?? '';
-  const observacao = linhasCabecalho.find((l) => /^\(.+\)$/.test(l));
+  const ehObservacao = (l: string) => /^\(.+\)$/.test(l);
+  const observacao = linhasCabecalho.find(ehObservacao);
+  // Às vezes a página não traz o nome da celebração e começa direto pela observação.
+  const primeira = linhasCabecalho[0] ?? '';
+  const celebracao = primeira && !ehObservacao(primeira) ? primeira : '';
   const corEncontrada = observacao?.match(/^\(\s*([a-zç]+)/i)?.[1]?.toLowerCase();
   const cor = corEncontrada && CORES.includes(corEncontrada) ? corEncontrada : undefined;
 

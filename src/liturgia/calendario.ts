@@ -97,6 +97,8 @@ export function converterDiaRomcal(data: string, dia: DiaRomcal): DiaLiturgico {
 }
 
 function calcularGloria(dia: DiaRomcal, tempo: Tempo): boolean {
+  // Fiéis Defuntos tem grau de solenidade, mas não tem Glória.
+  if (dia.id === 'commemoration_of_all_the_faithful_departed') return false;
   if (dia.rank === 'SOLEMNITY' || dia.rank === 'FEAST') return true;
   if (dia.periods.includes('CHRISTMAS_OCTAVE') || dia.periods.includes('EASTER_OCTAVE')) return true;
   // A Missa da Ceia do Senhor (Quinta-feira Santa) tem Glória.
@@ -114,12 +116,23 @@ async function calendarioDoAno(ano: number): Promise<Calendario> {
   if (!pronto) {
     pronto = (async () => {
       const [{ Romcal }, { Brazil_PtBr }] = await Promise.all([import('romcal'), import('@romcal/calendar.brazil')]);
-      const romcal = new Romcal({ localizedCalendar: Brazil_PtBr, scope: 'gregorian' });
+      // No Brasil a Epifania é celebrada no domingo entre 2 e 8 de janeiro.
+      // O calendário do Brasil na romcal (dev.140) a deixa em 6/1; por isso forçamos aqui.
+      const romcal = new Romcal({ localizedCalendar: Brazil_PtBr, scope: 'gregorian', epiphanyOnSunday: true });
       return (await romcal.generateCalendar(ano)) as unknown as Calendario;
     })();
     cache.set(ano, pronto);
   }
   return pronto;
+}
+
+/**
+ * Ajusta o dia calculado pela romcal com o que a Paulus publica:
+ * a observação da Paulus diz se há Glória (ex.: "(branco, glória, creio...)").
+ */
+export function ajustarComPaulus(dia: DiaLiturgico, observacaoPaulus: string | undefined): DiaLiturgico {
+  if (!observacaoPaulus) return dia;
+  return { ...dia, temGloria: /gl[óo]ria/i.test(observacaoPaulus) };
 }
 
 /** Dia litúrgico de uma data (AAAA-MM-DD). */

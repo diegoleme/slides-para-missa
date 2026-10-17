@@ -107,6 +107,10 @@ async function principal(): Promise<void> {
   for (const nome of readdirSync(PASTA).filter((n) => /^\d{4}-\d{2}\.json$/.test(n))) {
     const mes = nome.slice(0, 7);
     const arquivo = lerArquivoMes(mes);
+    // --forcar refaz o período do zero (descarta entradas antigas que possam estar com data errada).
+    if (opcoes.forcar) {
+      for (const data of Object.keys(arquivo.dias)) if (data >= opcoes.desde) delete arquivo.dias[data];
+    }
     meses.set(mes, arquivo);
     for (const dia of Object.values(arquivo.dias)) conhecidas.set(dia.url, dia.modificadoEm);
   }
@@ -140,9 +144,9 @@ async function principal(): Promise<void> {
     const mes = dia.data.slice(0, 7);
     const arquivo = meses.get(mes) ?? { fonte: FONTE, atualizadoEm: '', dias: {} };
     const existente = arquivo.dias[dia.data];
-    if (existente && existente.url !== dia.url && existente.modificadoEm > dia.modificadoEm) {
-      console.warn(`  ! ${dia.data}: duas páginas (${existente.url} e ${dia.url}); mantida a mais recente.`);
-      continue;
+    if (existente && existente.url !== dia.url) {
+      console.warn(`  ! ${dia.data}: duas páginas (${existente.url} e ${dia.url}); mantida a modificada por último.`);
+      if (existente.modificadoEm > dia.modificadoEm) continue;
     }
     arquivo.dias[dia.data] = dia;
     arquivo.atualizadoEm = new Date().toISOString();

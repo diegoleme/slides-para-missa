@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { dataEmBrasilia, htmlParaTexto, lerIndiceSitemap, lerPaginaDoDia, lerSitemap } from './paulus.ts';
+import { conferirData, dataEmBrasilia, htmlParaTexto, lerIndiceSitemap, lerPaginaDoDia, lerSitemap } from './paulus.ts';
 
 // Página reduzida, com a mesma estrutura da Paulus (textos encurtados).
 const PAGINA_DOMINGO = `
@@ -38,6 +38,14 @@ describe('extração da Paulus', () => {
   it('usa o fuso de Brasília para a data', () => {
     expect(dataEmBrasilia('2026-11-01T03:32:02+00:00')).toBe('2026-11-01');
     expect(dataEmBrasilia('2026-11-01T02:00:00+00:00')).toBe('2026-10-31');
+  });
+
+  it('corrige a data quando a Paulus agenda a página no dia errado', () => {
+    // Caso real: a página "24 – QUARTA-FEIRA" de fev/2027 foi publicada no dia 23.
+    expect(conferirData('2027-02-23', '24 – QUARTA-FEIRA')).toBe('2027-02-24');
+    expect(conferirData('2026-11-01', '1º – DOMINGO')).toBe('2026-11-01');
+    expect(conferirData('2026-10-04', 'Dia 4 DOMINGO')).toBe('2026-10-04');
+    expect(conferirData('2026-10-04', 'sem número')).toBe('2026-10-04');
   });
 
   it('lê o índice e as páginas do sitemap (com CDATA)', () => {

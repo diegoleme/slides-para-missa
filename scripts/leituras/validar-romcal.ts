@@ -17,6 +17,7 @@ for (const nome of readdirSync(PASTA).filter((n) => /^\d{4}-\d{2}\.json$/.test(n
 
 let comparados = 0;
 let coresDiferentes = 0;
+let gloriasDiferentes = 0;
 const linhas: string[] = [];
 for (const paulus of dias) {
   const romcal = await diaLiturgico(paulus.data);
@@ -26,8 +27,11 @@ for (const paulus of dias) {
   comparados++;
   const corOk = paulus.cor === romcal.cor;
   if (!corOk) coresDiferentes++;
-  if (todos || importante || !corOk) {
-    const marca = corOk ? '  ' : '≠ ';
+  const gloriaPaulus = /gl[óo]ria/i.test(paulus.observacao ?? '');
+  const gloriaOk = !paulus.observacao || gloriaPaulus === romcal.temGloria;
+  if (!gloriaOk) gloriasDiferentes++;
+  if (todos || importante || !corOk || !gloriaOk) {
+    const marca = corOk && gloriaOk ? '  ' : corOk ? 'G ' : '≠ ';
     linhas.push(
       `${marca}${paulus.data} ${domingo ? 'dom' : '   '} | Paulus: ${paulus.cor.padEnd(8)} ${paulus.celebracao || paulus.cabecalho}` +
         `\n${' '.repeat(18)}| romcal: ${romcal.cor.padEnd(8)} ${romcal.celebracao} (${romcal.grau}, ano ${romcal.ano}, ${romcal.tempo}, glória: ${romcal.temGloria ? 'sim' : 'não'})`,
@@ -36,4 +40,6 @@ for (const paulus of dias) {
 }
 
 console.log(linhas.join('\n'));
-console.log(`\n${comparados} dias com cor na Paulus; ${coresDiferentes} com cor diferente da romcal.`);
+console.log(`\n${comparados} dias com cor na Paulus; ${coresDiferentes} com cor diferente da romcal (≠).`);
+console.log(`${gloriasDiferentes} dias em que a romcal e a Paulus discordam sobre o Glória (G).`);
+console.log('No app, quando a Paulus traz a observação, vale o Glória dela.');
