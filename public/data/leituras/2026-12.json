@@ -1,0 +1,1002 @@
+{
+ "fonte": "https://www.paulus.com.br/portal/liturgia-diaria/",
+ "atualizadoEm": "2026-10-17T03:36:34.909Z",
+ "dias": {
+  "2026-12-01": {
+   "data": "2026-12-01",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/1o-terca-feira-4/",
+   "modificadoEm": "2026-12-01T03:12:20+00:00",
+   "cabecalho": "1º – TERÇA-FEIRA",
+   "celebracao": "1ª SEMANA DO ADVENTO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Isaías 11,1-10",
+     "titulo": "Leitura do livro do profeta Isaías"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "71(72)",
+     "refrao": "Nos seus dias, a justiça florirá / e paz em abundância, para sempre."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 10,21-24",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Eis que virá o nosso Deus com poder e majestade. / E ele há de iluminar os olhos dos seus servos.",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(roxo, pref. do Advento I ou IA, p. ?? – ofício do dia da 1ª semana do saltério)",
+   "cor": "roxo"
+  },
+  "2026-12-02": {
+   "data": "2026-12-02",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/2-quarta-feira-13/",
+   "modificadoEm": "2026-12-02T03:01:08+00:00",
+   "cabecalho": "2 – QUARTA-FEIRA",
+   "celebracao": "1ª SEMANA DO ADVENTO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Isaías 25,6-10",
+     "titulo": "Leitura do livro do profeta Isaías"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "22(23)",
+     "refrao": "Na casa do Senhor habitarei pelos tempos infinitos."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Mateus 15,29-37",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Eis que o Senhor há de vir / a fim de salvar o seu povo; / felizes são todos aqueles / que estão prontos para ir-lhe ao encontro.",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+    }
+   ],
+   "observacao": "(roxo, pref. do Advento I ou IA – ofício do dia)",
+   "cor": "roxo"
+  },
+  "2026-12-03": {
+   "data": "2026-12-03",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/3-quinta-feira-13/",
+   "modificadoEm": "2026-12-03T03:24:05+00:00",
+   "cabecalho": "3 – QUINTA-FEIRA",
+   "celebracao": "SÃO FRANCISCO XAVIER",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Isaías 26,1-6",
+     "titulo": "Leitura do livro do profeta Isaías"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "117(118)",
+     "refrao": "Bendito é aquele que vem vindo em nome do Senhor!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Mateus 7,21.24-27",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Buscai o Senhor, vosso Deus, / invocai-o, enquanto está perto! (Is 55,6)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+    }
+   ],
+   "observacao": "(branco, pref. do Advento I ou IA ou dos pastores – ofício da memória)",
+   "cor": "branco"
+  },
+  "2026-12-04": {
+   "data": "2026-12-04",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/4-sexta-feira-13/",
+   "modificadoEm": "2026-12-04T03:10:52+00:00",
+   "cabecalho": "4 – SEXTA-FEIRA",
+   "celebracao": "1ª SEMANA DO ADVENTO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Isaías 29,17-24",
+     "titulo": "Leitura do livro do profeta Isaías"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "26(27)",
+     "refrao": "O Senhor é minha luz e salvação."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Mateus 9,27-31",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Eis que virá o nosso Deus com poder e majestade, / e ele há de iluminar os olhos dos seus servos!",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+    }
+   ],
+   "observacao": "(roxo, pref. do Advento I ou IA – ofício do dia)",
+   "cor": "roxo"
+  },
+  "2026-12-05": {
+   "data": "2026-12-05",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/5-sabado-13/",
+   "modificadoEm": "2026-12-05T03:29:13+00:00",
+   "cabecalho": "5 – SÁBADO",
+   "celebracao": "1ª SEMANA DO ADVENTO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Isaías 30,19-21.23-26",
+     "titulo": "Leitura do livro do profeta Isaías"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "146(147A)",
+     "refrao": "Felizes são aqueles que esperam no Senhor!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Mateus 9,35-10,1.6-8",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "É o Senhor nosso juiz e nosso rei. / O Senhor legislador nos salvará (Is 33,22).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+    }
+   ],
+   "observacao": "(roxo, pref. do Advento I ou IA – ofício do dia)",
+   "cor": "roxo"
+  },
+  "2026-12-06": {
+   "data": "2026-12-06",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/6-domingo-10/",
+   "modificadoEm": "2026-12-06T03:46:36+00:00",
+   "cabecalho": "6 – DOMINGO",
+   "celebracao": "2º DOMINGO DO ADVENTO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Isaías 40,1-5.9-11",
+     "titulo": "Leitura do livro do profeta Isaías"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "84(85)",
+     "refrao": "Mostrai-nos, ó Senhor, vossa bondade / e a vossa salvação nos concedei!"
+    },
+    {
+     "tipo": "segunda",
+     "rotulo": "Segunda Leitura",
+     "referencia": "2 Pedro 3,8-14",
+     "titulo": "Leitura da segunda carta de São Pedro"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Marcos 1,1-8",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Preparai o caminho do Senhor; / endireitai suas veredas. / Toda carne há de ver / a salvação do nosso Deus (Lc 3,4.6).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos"
+    }
+   ],
+   "observacao": "(roxo, creio, prefácio do Advento I ou IA – 2ª semana do saltério)",
+   "cor": "roxo"
+  },
+  "2026-12-07": {
+   "data": "2026-12-07",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/7-segunda-feira-13/",
+   "modificadoEm": "2026-12-07T03:56:09+00:00",
+   "cabecalho": "7 – SEGUNDA-FEIRA",
+   "celebracao": "SANTO AMBRÓSIO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Isaías 35,1-10",
+     "titulo": "Leitura do livro do profeta Isaías"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "84(85)",
+     "refrao": "Eis que vem o nosso Deus! Ele vem para salvar."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 5,17-26",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Eis que o Rei há de vir, Senhor da terra, / ele mesmo de nós afastará o jugo do nosso cativeiro.",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(branco, pref. do Advento I ou IA dos pastores ou dos doutores – ofício da memória)",
+   "cor": "branco"
+  },
+  "2026-12-08": {
+   "data": "2026-12-08",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/8-terca-feira-13/",
+   "modificadoEm": "2026-12-08T03:02:43+00:00",
+   "cabecalho": "8 – TERÇA-FEIRA",
+   "celebracao": "IMACULADA CONCEIÇÃO DA BEM-AVENTURADA VIRGEM MARIA",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Gênesis 3,9-15.20",
+     "titulo": "Leitura do livro do Gênesis"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "97(98)",
+     "refrao": "Cantai ao Senhor Deus um canto novo, / porque ele fez prodígios!"
+    },
+    {
+     "tipo": "segunda",
+     "rotulo": "Segunda Leitura",
+     "referencia": "Efésios 1,3-6.11-12",
+     "titulo": "Leitura da carta de São Paulo aos Efésios"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 1,26-38",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Maria, alegra-te, ó cheia de graça, / o Senhor é contigo! (Lc 1,28)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(branco, glória, creio, prefácio próprio – ofício da solenidade)",
+   "cor": "branco"
+  },
+  "2026-12-09": {
+   "data": "2026-12-09",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/9-quarta-feira-13/",
+   "modificadoEm": "2026-12-09T03:06:32+00:00",
+   "cabecalho": "9 – QUARTA-FEIRA",
+   "celebracao": "2ª SEMANA DO ADVENTO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Isaías 40,25-31",
+     "titulo": "Leitura do livro do profeta Isaías"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "102(103)",
+     "refrao": "Bendize, ó minha alma, ao Senhor."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Mateus 11,28-30",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Eis que o Senhor há de vir, / a fim de salvar o seu povo; / felizes são todos aqueles / que estão prontos para ir-lhe ao encontro.",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+    }
+   ],
+   "observacao": "(roxo, pref. do Advento I ou IA – ofício do dia)",
+   "cor": "roxo"
+  },
+  "2026-12-10": {
+   "data": "2026-12-10",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/10-quinta-feira-13/",
+   "modificadoEm": "2026-12-10T03:09:32+00:00",
+   "cabecalho": "10 – QUINTA-FEIRA",
+   "celebracao": "2ª SEMANA DO ADVENTO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Isaías 41,13-20",
+     "titulo": "Leitura do livro do profeta Isaías"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "144(145)",
+     "refrao": "Misericórdia e piedade é o Senhor! / Ele é amor, é paciência, é compaixão."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Mateus 11,11-15",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Que os céus, lá do alto, derramem o orvalho, / que chova das nuvens o justo esperado, / que a terra se abra e germine o Senhor! (Is 45,8)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+    }
+   ],
+   "observacao": "(roxo, pref. do Advento I ou IA – ofício do dia)",
+   "cor": "roxo"
+  },
+  "2026-12-11": {
+   "data": "2026-12-11",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/11-sexta-feira-13/",
+   "modificadoEm": "2026-12-11T03:20:10+00:00",
+   "cabecalho": "11 – SEXTA-FEIRA",
+   "celebracao": "2ª SEMANA DO ADVENTO*",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Isaías 48,17-19",
+     "titulo": "Leitura do livro do profeta Isaías"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "1",
+     "refrao": "Senhor, quem vos seguir terá a luz da vida."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Mateus 11,16-19",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "O Senhor há de vir, acorrei-lhe ao encontro; / é o Príncipe da paz.",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+    }
+   ],
+   "observacao": "(roxo, pref. do Advento I ou IA, p. ?? – ofício do dia)",
+   "cor": "roxo"
+  },
+  "2026-12-12": {
+   "data": "2026-12-12",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/12-sabado-13/",
+   "modificadoEm": "2026-12-12T03:53:23+00:00",
+   "cabecalho": "12 – SÁBADO",
+   "celebracao": "BEM-AVENTURADA VIRGEM MARIA DE GUADALUPE",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Gálatas 4,4-7",
+     "titulo": "Leitura da carta de São Paulo aos Gálatas"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "95(96)",
+     "refrao": "Manifestai a sua glória entre as nações."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 1,39-47",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Maria, alegra-te, ó cheia de graça, o Senhor é contigo; / és bendita entre todas as mulheres da terra! (Lc 1,28)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(branco, glória, pref. de Maria – ofício da festa)",
+   "cor": "branco"
+  },
+  "2026-12-13": {
+   "data": "2026-12-13",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/78418/",
+   "modificadoEm": "2026-12-13T03:04:43+00:00",
+   "cabecalho": "13 – DOMINGO",
+   "celebracao": "3º DOMINGO DO ADVENTO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Isaías 61,1-2.10-11",
+     "titulo": "Leitura do livro do profeta Isaías"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "Lc 1",
+     "refrao": "A minha alma se alegra no meu Deus."
+    },
+    {
+     "tipo": "segunda",
+     "rotulo": "Segunda Leitura",
+     "referencia": "1 Tessalonicenses 5,16-24",
+     "titulo": "Leitura da primeira carta de São Paulo aos Tessalonicenses"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "João 1,6-8.19-28",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "O Espírito do Senhor / sobre mim fez a sua unção, / enviou-me aos empobrecidos / a fazer feliz proclamação (Is 61,1).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo João"
+    }
+   ],
+   "observacao": "(roxo ou róseo, creio, prefácio do Advento I ou IA – 3ª semana do saltério)",
+   "cor": "roxo"
+  },
+  "2026-12-14": {
+   "data": "2026-12-14",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/14-segunda-feira-11/",
+   "modificadoEm": "2026-12-14T03:16:50+00:00",
+   "cabecalho": "14 – SEGUNDA-FEIRA",
+   "celebracao": "SÃO JOÃO DA CRUZ",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Números 24,2-7.15-17",
+     "titulo": "Leitura do livro dos Números"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "24(25)",
+     "refrao": "Fazei-me conhecer a vossa estrada, ó Senhor!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Mateus 21,23-27",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Mostrai-nos, ó Senhor, vossa bondade / e a vossa salvação nos concedei! (Sl 84,8)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+    }
+   ],
+   "observacao": "(branco, pref. do Advento I ou IA ou dos pastores – ofício da memória)",
+   "cor": "branco"
+  },
+  "2026-12-15": {
+   "data": "2026-12-15",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/15-terca-feira-11/",
+   "modificadoEm": "2026-12-15T03:22:20+00:00",
+   "cabecalho": "15 – TERÇA-FEIRA",
+   "celebracao": "3ª SEMANA DO ADVENTO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Sofonias 3,1-2.9-13",
+     "titulo": "Leitura da profecia de Sofonias"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "33(34)",
+     "refrao": "Este infeliz gritou a Deus e foi ouvido."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Mateus 21,28-32",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Vinde, ó Senhor, não tardeis mais; / fazei o povo acabar com os seus crimes.",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+    }
+   ],
+   "observacao": "(roxo, pref. do Advento I ou IA – ofício do dia)",
+   "cor": "roxo"
+  },
+  "2026-12-16": {
+   "data": "2026-12-16",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/16-quarta-feira-12/",
+   "modificadoEm": "2026-12-16T03:49:19+00:00",
+   "cabecalho": "16 – QUARTA-FEIRA",
+   "celebracao": "3ª SEMANA DO ADVENTO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Isaías 45,6-8.18.21-25",
+     "titulo": "Leitura do livro do profeta Isaías"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "84(85)",
+     "refrao": "Que os céus lá do alto derramem o orvalho, / que chova das nuvens o justo esperado!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 7,19-23",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Tu que trazes boa-nova a Sião, levanta tua voz e anuncia: / eis que vem o Senhor Deus com poderio! (Is 40,9s)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(roxo, pref. do Advento I ou IA – ofício do dia)",
+   "cor": "roxo"
+  },
+  "2026-12-17": {
+   "data": "2026-12-17",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/17-quinta-feira-12/",
+   "modificadoEm": "2026-12-17T03:10:11+00:00",
+   "cabecalho": "17 – QUINTA-FEIRA",
+   "celebracao": "3ª SEMANA DO ADVENTO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Gênesis 49,2.8-10",
+     "titulo": "Leitura do livro do Gênesis"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "71(72)",
+     "refrao": "Nos seus dias, a justiça florirá / e paz em abundância, para sempre."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Mateus 1,1-17",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Ó Sabedoria do Altíssimo, que tudo determina, com doçura e com vigor: / oh, vem nos ensinar o caminho da prudência!",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+    }
+   ],
+   "observacao": "(roxo, pref. do Advento II ou IIA – ofício do dia)",
+   "cor": "roxo"
+  },
+  "2026-12-18": {
+   "data": "2026-12-18",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/18-sexta-feira-13/",
+   "modificadoEm": "2026-12-18T03:27:47+00:00",
+   "cabecalho": "18 – SEXTA-FEIRA",
+   "celebracao": "3ª SEMANA DO ADVENTO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Jeremias 23,5-8",
+     "titulo": "Leitura do livro do profeta Jeremias"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "71(72)",
+     "refrao": "Nos seus dias, a justiça florirá / e paz em abundância, para sempre."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Mateus 1,18-24",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Ó Guia de Israel, que no monte do Sinai orientastes a Moisés, / oh, vinde redimir-nos com braço estendido!",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+    }
+   ],
+   "observacao": "(roxo, pref. do Advento II ou IIA – ofício do dia)",
+   "cor": "roxo"
+  },
+  "2026-12-19": {
+   "data": "2026-12-19",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/19-sabado-12/",
+   "modificadoEm": "2026-12-19T03:32:47+00:00",
+   "cabecalho": "19 – SÁBADO",
+   "celebracao": "3ª SEMANA DO ADVENTO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Juízes 13,2-7.24-25",
+     "titulo": "Leitura do livro dos Juízes"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "70(71)",
+     "refrao": "Minha boca se encha de louvor, / para que eu cante vossa glória."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 1,5-25",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Ó Raiz de Jessé, sinal das nações: / oh, vinde livrar-nos e não tardeis mais!",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(roxo, pref. do Advento II ou IIA – ofício do dia)",
+   "cor": "roxo"
+  },
+  "2026-12-20": {
+   "data": "2026-12-20",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/20-domingo-11/",
+   "modificadoEm": "2026-12-20T03:51:40+00:00",
+   "cabecalho": "20 – DOMINGO",
+   "celebracao": "4º DOMINGO DO ADVENTO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "2 Samuel 7,1-5.8-12.14.16)",
+     "titulo": "Leitura do segundo livro de Samuel"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "88(89)",
+     "refrao": "Ó Senhor, eu cantarei eternamente o vosso amor!"
+    },
+    {
+     "tipo": "segunda",
+     "rotulo": "Segunda Leitura",
+     "referencia": "Romanos 16,25-27",
+     "titulo": "Leitura da carta de São Paulo aos Romanos"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 1,26-38",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Eis a serva do Senhor; / cumpra-se em mim a tua palavra! (Lc 1,38)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(roxo, creio, prefácio do Advento II ou IIA – 4ª semana do saltério)",
+   "cor": "roxo"
+  },
+  "2026-12-21": {
+   "data": "2026-12-21",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/21-segunda-feira-13/",
+   "modificadoEm": "2026-12-21T03:57:37+00:00",
+   "cabecalho": "21 – SEGUNDA-FEIRA",
+   "celebracao": "4ª SEMANA DO ADVENTO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Cântico 2,8-14",
+     "titulo": "Leitura do livro do Cântico dos Cânticos"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "32(33)",
+     "refrao": "Ó justos, alegrai-vos no Senhor! / Cantai para o Senhor um canto novo!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 1,39-45",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Ó Emanuel, sois nosso Rei e Orientador: / vinde salvar-nos, ó Senhor e nosso Deus!",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(roxo, pref. do Advento II ou IIA – ofício do dia)",
+   "cor": "roxo"
+  },
+  "2026-12-22": {
+   "data": "2026-12-22",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/22-terca-feira-12/",
+   "modificadoEm": "2026-12-22T03:03:04+00:00",
+   "cabecalho": "22 – TERÇA-FEIRA",
+   "celebracao": "4ª SEMANA DO ADVENTO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "1 Samuel 1,24-28",
+     "titulo": "Leitura do primeiro livro de Samuel"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "1Sm 2",
+     "refrao": "Meu coração exultou no meu Senhor, Salvador."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 1,46-56",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Ó Rei e Senhor das nações / e Pedra angular da Igreja, / vinde salvar a mulher e o homem, / que, um dia, formastes do barro.",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(roxo, pref. do Advento II ou IIA – ofício do dia)",
+   "cor": "roxo"
+  },
+  "2026-12-23": {
+   "data": "2026-12-23",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/23-quarta-feira-13/",
+   "modificadoEm": "2026-12-23T03:12:12+00:00",
+   "cabecalho": "23 – QUARTA-FEIRA",
+   "celebracao": "4ª SEMANA DO ADVENTO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Malaquias 3,1-4.23-24",
+     "titulo": "Leitura da profecia de Malaquias"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "24(25)",
+     "refrao": "Levantai vossa cabeça e olhai, / pois a vossa redenção se aproxima!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 1,57-66",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Ó Rei e Senhor das nações / e Pedra angular da Igreja, / vinde salvar a mulher e o homem, / que, um dia, formastes do barro.",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(roxo, pref. do Advento II ou IIA – ofício do dia)",
+   "cor": "roxo"
+  },
+  "2026-12-24": {
+   "data": "2026-12-24",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/24-quinta-feira-12/",
+   "modificadoEm": "2026-12-24T03:26:20+00:00",
+   "cabecalho": "24 – QUINTA-FEIRA",
+   "celebracao": "4ª SEMANA DO ADVENTO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "2 Samuel 7,1-5.8-12.14.16",
+     "titulo": "Leitura do segundo livro de Samuel"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "responsorial 88(89)",
+     "refrao": "Ó Senhor, eu cantarei eternamente o vosso amor!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 1,67-79",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Ó Sol da manhã, ó Sol de justiça, da eterna luz esplendor: / oh, vinde brilhar para o povo sentado na sombra da morte!",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(roxo, pref. do Advento II ou IIA – ofício do dia)",
+   "cor": "roxo"
+  },
+  "2026-12-25": {
+   "data": "2026-12-25",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/25-sexta-feira-11/",
+   "modificadoEm": "2026-12-25T03:35:00+00:00",
+   "cabecalho": "25 – SEXTA-FEIRA",
+   "celebracao": "NATAL DE NOSSO SENHOR JESUS CRISTO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Isaías 52,7-10",
+     "titulo": "Leitura do livro do profeta Isaías"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "97(98)",
+     "refrao": "Os confins do universo contemplaram / a salvação do nosso Deus."
+    },
+    {
+     "tipo": "segunda",
+     "rotulo": "Segunda Leitura",
+     "referencia": "Hebreus 1,1-6",
+     "titulo": "Leitura da carta aos Hebreus"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "João 1,1-18 ou 1-5.9-14",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Despontou o santo dia para nós: / ó nações, vinde adorar o Senhor Deus, / porque hoje grande luz brilhou na terra!",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo João"
+    }
+   ],
+   "observacao": "(branco, glória, creio, prefácio do Natal – ofício da solenidade)",
+   "cor": "branco"
+  },
+  "2026-12-26": {
+   "data": "2026-12-26",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/26-sabado-12/",
+   "modificadoEm": "2026-12-25T03:48:18+00:00",
+   "cabecalho": "26 – SÁBADO",
+   "celebracao": "SANTO ESTÊVÃO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Atos 6,8-10; 7,54-59",
+     "titulo": "Leitura dos Atos dos Apóstolos"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "30(31)",
+     "refrao": "Em vossas mãos, Senhor, entrego o meu espírito."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Mateus 10,17-22",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Bendito o que vem em nome do Senhor. / Nosso Deus é o Senhor, ele é a nossa luz (Sl 117,26s).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+    }
+   ],
+   "observacao": "(vermelho, glória, pref. do Natal – ofício da festa)",
+   "cor": "vermelho"
+  },
+  "2026-12-27": {
+   "data": "2026-12-27",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/27-domingo-10/",
+   "modificadoEm": "2026-12-27T03:52:45+00:00",
+   "cabecalho": "27 – DOMINGO",
+   "celebracao": "SAGRADA FAMÍLIA DE JESUS, MARIA E JOSÉ",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Eclesiástico 3,3-7.14-17",
+     "titulo": "Leitura do livro do Eclesiástico"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "127(128)",
+     "refrao": "Felizes os que temem o Senhor e trilham seus caminhos!"
+    },
+    {
+     "tipo": "segunda",
+     "rotulo": "Segunda Leitura",
+     "referencia": "Colossenses 3,12-21",
+     "titulo": "Leitura da carta de São Paulo aos Colossenses"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 2,22-40 ou 22.39-40",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Que a paz de Cristo reine em vossos corações / e ricamente habite em vós sua Palavra! (Cl 3,15s)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(branco, glória, creio, prefácio do Natal – ofício da festa)",
+   "cor": "branco"
+  },
+  "2026-12-28": {
+   "data": "2026-12-28",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/28-segunda-feira-11/",
+   "modificadoEm": "2026-12-28T03:02:06+00:00",
+   "cabecalho": "28 – SEGUNDA-FEIRA",
+   "celebracao": "OS SANTOS INOCENTES, MÁRTIRES",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "1 João 1,5-2,2",
+     "titulo": "Leitura da primeira carta de São João"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "123(124)",
+     "refrao": "Nossa alma, como um pássaro, escapou / do laço que lhe armara o caçador."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Mateus 2,13-18",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "A vós, ó Deus, louvamos, a vós, Senhor, cantamos; / vos louva o exército dos vossos santos mártires!",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+    }
+   ],
+   "observacao": "(vermelho, glória, pref. do Natal – ofício da festa)",
+   "cor": "vermelho"
+  },
+  "2026-12-29": {
+   "data": "2026-12-29",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/29-terca-feira-11/",
+   "modificadoEm": "2026-12-29T03:09:08+00:00",
+   "cabecalho": "29 – TERÇA-FEIRA",
+   "celebracao": "OITAVA DO NATAL",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "1 João 2,3-11",
+     "titulo": "Leitura da primeira carta de São João"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "95(96)",
+     "refrao": "O céu se rejubile e exulte a terra!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 2,22-35",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Sois a luz que brilhará para os gentios / e para a glória de Israel, o vosso povo (Lc 2,32).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(branco, glória – ofício próprio)",
+   "cor": "branco"
+  },
+  "2026-12-30": {
+   "data": "2026-12-30",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/30-quarta-feira-11/",
+   "modificadoEm": "2026-12-30T03:13:35+00:00",
+   "cabecalho": "30 – QUARTA-FEIRA",
+   "celebracao": "OITAVA DO NATAL",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "1 João 2,12-17",
+     "titulo": "Leitura da primeira carta de São João"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "95(96)",
+     "refrao": "O céu se rejubile e exulte a terra!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 2,36-40",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Um dia sagrado brilhou para nós: / nações, vinde todas adorar o Senhor, / pois hoje desceu grande luz sobre a terra!",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(branco, glória – ofício próprio)",
+   "cor": "branco"
+  },
+  "2026-12-31": {
+   "data": "2026-12-31",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/31-quinta-feira-7/",
+   "modificadoEm": "2026-12-31T03:16:11+00:00",
+   "cabecalho": "31 – QUINTA-FEIRA",
+   "celebracao": "OITAVA DO NATAL",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "1 João 2,18-21",
+     "titulo": "Leitura da primeira carta de São João"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "95(96)",
+     "refrao": "O céu se rejubile e exulte a terra!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "João 1,1-18",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "A Palavra se fez carne, entre nós ela habitou; / e todos os que a acolheram, de Deus filhos se tornaram (Jo 1,14.12)."
+    }
+   ],
+   "observacao": "(branco, glória – ofício do dia)",
+   "cor": "branco"
+  }
+ }
+}

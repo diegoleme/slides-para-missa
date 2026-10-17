@@ -12,7 +12,7 @@
 4. **Exportação**: .pptx (pptxgenjs, Tahoma, quebras já calculadas) e PDF (canvas → jsPDF, 1600×900).
 5. **Telas**: início (nova missa / missas salvas com Abrir, Duplicar, Apagar), montagem em 3 colunas (roteiro com ✓ ○ ⚠ e arrastar, editor, prévia), cadastro de canto com sugestão de refrão, "Ver todos os slides" e download. Salvamento automático no navegador.
 6. **Biblioteca inicial** (`public/data/biblioteca.json`): 22 itens.
-7. Testes: 28 passando (`pnpm test`), `vue-tsc` e `vite build` ok.
+7. Testes: 27 passando (`pnpm test`), `vue-tsc` e `vite build` ok.
 
 ## Achados importantes
 

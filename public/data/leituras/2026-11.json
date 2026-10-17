@@ -1,0 +1,972 @@
+{
+ "fonte": "https://www.paulus.com.br/portal/liturgia-diaria/",
+ "atualizadoEm": "2026-10-17T03:34:51.190Z",
+ "dias": {
+  "2026-11-01": {
+   "data": "2026-11-01",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/1o-domingo-5/",
+   "modificadoEm": "2026-11-01T03:32:02+00:00",
+   "cabecalho": "1º – DOMINGO",
+   "celebracao": "TODOS OS SANTOS E SANTAS",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Apocalipse 7,2-4.9-14",
+     "titulo": "Leitura do livro do Apocalipse de São João"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "23(24)",
+     "refrao": "É assim a geração dos que procuram o Senhor!"
+    },
+    {
+     "tipo": "segunda",
+     "rotulo": "Segunda Leitura",
+     "referencia": "1 João 3,1-3",
+     "titulo": "Leitura da primeira carta de São João"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Mateus 5,1-12",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Vinde a mim, todos vós que estais cansados e penais a carregar pesado fardo, / e descanso eu vos darei, diz o Senhor (Mt 11,28).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+    }
+   ],
+   "observacao": "(branco, glória, creio, prefácio próprio – ofício da solenidade)",
+   "cor": "branco"
+  },
+  "2026-11-02": {
+   "data": "2026-11-02",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/2-segunda-feira-12/",
+   "modificadoEm": "2026-11-02T03:52:38+00:00",
+   "cabecalho": "2 – SEGUNDA-FEIRA",
+   "celebracao": "TODOS OS FIÉIS DEFUNTOS",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Jó 19,1.23-27a",
+     "titulo": "Leitura do livro de Jó"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "22(23)",
+     "refrao": "O Senhor é o pastor que me conduz, / não me falta coisa alguma."
+    },
+    {
+     "tipo": "segunda",
+     "rotulo": "Segunda Leitura",
+     "referencia": "1 Coríntios 15,20-24a.25-28 ou 20-23",
+     "titulo": "Leitura da Primeira Carta de São Paulo aos Coríntios."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 12,35-40",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "É esta a vontade de quem me enviou: / que eu não perca nenhum dos que ele me deu, mas que eu os ressuscite no último dia.",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(roxo ou preto, prefácio dos mortos – ofício próprio)",
+   "cor": "roxo"
+  },
+  "2026-11-03": {
+   "data": "2026-11-03",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/3-terca-feira-12/",
+   "modificadoEm": "2026-11-03T03:09:30+00:00",
+   "cabecalho": "3 – TERÇA-FEIRA",
+   "celebracao": "31ª SEMANA DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Filipenses 2,5-11",
+     "titulo": "Leitura da carta de São Paulo aos Filipenses"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "21(22)",
+     "refrao": "Ó Senhor, sois meu louvor em meio à grande assembleia!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 14,15-24",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Vinde a mim, todos vós que estais cansados, / e descanso eu vos darei, diz o Senhor (Mt 11,28).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2026-11-04": {
+   "data": "2026-11-04",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/4-quarta-feira-12/",
+   "modificadoEm": "2026-11-04T03:21:48+00:00",
+   "cabecalho": "4 – QUARTA-FEIRA",
+   "celebracao": "SÃO CARLOS BORROMEU, BISPO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Filipenses 2,12-18",
+     "titulo": "Leitura da carta de São Paulo aos Filipenses"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "26(27)",
+     "refrao": "O Senhor é minha luz e salvação!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 14,25-33",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Felizes sereis vós se fordes ultrajados por causa de Jesus, / pois repousa sobre vós o Espírito de Deus (1Pd 4,14).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(branco, pref. comum ou dos pastores – ofício da memória)",
+   "cor": "branco"
+  },
+  "2026-11-05": {
+   "data": "2026-11-05",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/5-quinta-feira-12/",
+   "modificadoEm": "2026-11-05T03:34:07+00:00",
+   "cabecalho": "5 – QUINTA-FEIRA",
+   "celebracao": "31ª SEMANA DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Filipenses 3,3-8",
+     "titulo": "Leitura da carta de São Paulo aos Filipenses"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "104(105)",
+     "refrao": "Exulte o coração dos que buscam o Senhor!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 15,1-10",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Vinde a mim, todos vós que estais cansados, / e descanso eu vos darei, diz o Senhor (Mt 11,28).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2026-11-06": {
+   "data": "2026-11-06",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/6-sexta-feira-12/",
+   "modificadoEm": "2026-11-06T03:40:45+00:00",
+   "cabecalho": "6 – SEXTA-FEIRA",
+   "celebracao": "31ª SEMANA DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Filipenses 3,17-4,1",
+     "titulo": "Leitura da carta de São Paulo aos Filipenses"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "121(122)",
+     "refrao": "Que alegria quando ouvi que me disseram: / “Vamos à casa do Senhor!”"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 16,1-8",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "O amor de Deus se realiza em todo aquele / que guarda sua Palavra fielmente (1Jo 2,5).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2026-11-07": {
+   "data": "2026-11-07",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/7-sabado-13/",
+   "modificadoEm": "2026-11-07T03:44:59+00:00",
+   "cabecalho": "7 – SÁBADO",
+   "celebracao": "31ª SEMANA DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Filipenses 4,10-19",
+     "titulo": "Leitura da carta de São Paulo aos Filipenses"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "111(112)",
+     "refrao": "Feliz aquele que respeita o Senhor!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 16,9-15",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Jesus Cristo, Senhor nosso, / embora sendo rico, para nós se tornou pobre, / a fim de enriquecer-nos / mediante sua pobreza (2Cor 8,9).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2026-11-08": {
+   "data": "2026-11-08",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/8-domingo-11/",
+   "modificadoEm": "2026-11-08T03:49:38+00:00",
+   "cabecalho": "8 – DOMINGO",
+   "celebracao": "32º DOMINGO DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Sabedoria 6,12-16",
+     "titulo": "Leitura do livro da Sabedoria"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "62(63)",
+     "refrao": "A minha alma tem sede de vós e vos deseja, ó Senhor."
+    },
+    {
+     "tipo": "segunda",
+     "rotulo": "Segunda Leitura",
+     "referencia": "1 Tessalonicenses 4,13-18 ou 13-14",
+     "titulo": "Leitura da primeira carta de São Paulo aos Tessalonicenses"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Mateus 25,1-13",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "É preciso vigiar e ficar de prontidão; / em que dia o Senhor há de vir, não sabeis, não! (Mt 24,42.44)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+    }
+   ],
+   "observacao": "(verde, glória, creio – 4ª semana do saltério)",
+   "cor": "verde"
+  },
+  "2026-11-09": {
+   "data": "2026-11-09",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/9-segunda-feira-12/",
+   "modificadoEm": "2026-11-09T03:57:08+00:00",
+   "cabecalho": "9 – SEGUNDA-FEIRA",
+   "celebracao": "DEDICAÇÃO DA BASÍLICA DO LATRÃO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Ezequiel 47,1-2.8-9.12",
+     "titulo": "Leitura da profecia de Ezequiel"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "45(46)",
+     "refrao": "Os braços de um rio vêm trazer alegria / à cidade de Deus, à morada do Altíssimo."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "João 2,13-22",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Esta casa eu escolhi e santifiquei, / para nela estar meu nome para sempre (2Cr 7,16).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo João"
+    }
+   ],
+   "observacao": "(branco, glória, pref. da dedicação – ofício da festa)",
+   "cor": "branco"
+  },
+  "2026-11-10": {
+   "data": "2026-11-10",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/10-terca-feira-12/",
+   "modificadoEm": "2026-11-10T03:02:29+00:00",
+   "cabecalho": "10 – TERÇA-FEIRA",
+   "celebracao": "SÃO LEÃO MAGNO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Tito 2,1-8.11-14",
+     "titulo": "Leitura da carta de São Paulo a Tito"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "36(37)",
+     "refrao": "A salvação de quem é justo vem de Deus!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 17,7-10",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Quem me ama, realmente, guardará minha palavra / e meu Pai o amará, e a ele nós viremos (Jo 14,23).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(branco, pref. dos doutores ou dos pastores – ofício da memória)",
+   "cor": "branco"
+  },
+  "2026-11-11": {
+   "data": "2026-11-11",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/11-quarta-feira-12/",
+   "modificadoEm": "2026-11-11T03:31:45+00:00",
+   "cabecalho": "11 – QUARTA-FEIRA",
+   "celebracao": "SÃO MARTINHO DE TOURS – BISPO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Tito 3,1-7",
+     "titulo": "Leitura da carta de São Paulo a Tito"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "22(23)",
+     "refrao": "O Senhor é o pastor que me conduz, / não me falta coisa alguma."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 17,11-19",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Em tudo dai graças, pois esta é a vontade / de Deus para convosco, em Cristo, o Senhor (1Ts 5,18).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(branco, pref. comum ou dos pastores – ofício da memória)",
+   "cor": "branco"
+  },
+  "2026-11-12": {
+   "data": "2026-11-12",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/12-quinta-feira-12/",
+   "modificadoEm": "2026-11-12T03:06:23+00:00",
+   "cabecalho": "12 – QUINTA-FEIRA",
+   "celebracao": "SÃO JOSAFÁ",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Filêmon 1,7-20",
+     "titulo": "Leitura da carta de São Paulo a Filêmon"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "145(146)",
+     "refrao": "Feliz quem se apoia no Deus de Jacó!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 17,20-25",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Eu sou a videira e vós sois os ramos; / um fruto abundante vós haveis de dar (Jo 15,5).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(vermelho, pref. comum ou dos santos – ofício da memória)",
+   "cor": "vermelho"
+  },
+  "2026-11-13": {
+   "data": "2026-11-13",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/13-sexta-feira-12/",
+   "modificadoEm": "2026-11-13T03:01:16+00:00",
+   "cabecalho": "13 – SEXTA-FEIRA",
+   "celebracao": "32ª SEMANA DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "2 João 1,4-9",
+     "titulo": "Leitura da segunda carta de São João"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "118(119)",
+     "refrao": "Feliz é quem na lei do Senhor Deus vai progredindo!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 17,26-37",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Levantai vossa cabeça e olhai, / pois a vossa redenção se aproxima! (Lc 21,28)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2026-11-14": {
+   "data": "2026-11-14",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/14-sabado-14/",
+   "modificadoEm": "2026-11-14T03:27:55+00:00",
+   "cabecalho": "14 – SÁBADO",
+   "celebracao": "32ª SEMANA DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "3 João 1,5-8",
+     "titulo": "Leitura da terceira carta de São João"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "111(112)",
+     "refrao": "Feliz aquele que respeita o Senhor!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 18,1-8",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Pelo Evangelho o Pai nos chamou, / a fim de alcançarmos a glória de nosso Senhor Jesus Cristo (2Ts 2,14).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2026-11-15": {
+   "data": "2026-11-15",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/15-domingo-11/",
+   "modificadoEm": "2026-11-15T03:54:17+00:00",
+   "cabecalho": "15 – DOMINGO",
+   "celebracao": "33º DOMINGO DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Provérbios 31,10-13.19-20.30-",
+     "titulo": "Leitura do livro dos Provérbios"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "127(128)",
+     "refrao": "Felizes os que temem o Senhor e trilham seus caminhos!"
+    },
+    {
+     "tipo": "segunda",
+     "rotulo": "Segunda Leitura",
+     "referencia": "1 Tessalonicenses 5,1-6",
+     "titulo": "Leitura da primeira carta de São Paulo aos Tessalonicenses"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Mateus 25,14-30 ou 14-15.19-21",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Ficai em mim, e eu em vós hei de ficar, diz o Senhor; / quem em mim permanece, esse dá muito fruto (Jo 15,4s).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+    }
+   ],
+   "observacao": "(verde, glória, creio – 1ª semana do saltério)",
+   "cor": "verde"
+  },
+  "2026-11-16": {
+   "data": "2026-11-16",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/16-segunda-feira-11/",
+   "modificadoEm": "2026-11-16T03:05:59+00:00",
+   "cabecalho": "16 – SEGUNDA-FEIRA",
+   "celebracao": "33ª SEMANA DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Apocalipse 1,1-4; 2,1-5",
+     "titulo": "Início do livro do Apocalipse de São João"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "1",
+     "refrao": "Ao vencedor concederei comer da árvore da vida!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 18,35-43",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Eu sou a luz do mundo; / aquele que me segue / não caminha entre as trevas, / mas terá a luz da vida (Jo 8,12).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2026-11-17": {
+   "data": "2026-11-17",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/17-terca-feira-11/",
+   "modificadoEm": "2026-11-17T03:36:29+00:00",
+   "cabecalho": "17 – TERÇA-FEIRA",
+   "celebracao": "SANTA ISABEL DA HUNGRIA, RELIGIOSA",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Apocalipse 3,1-6.14-22",
+     "titulo": "Leitura do livro do Apocalipse de São João"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "14(15)",
+     "refrao": "Ao vencedor, dar-lhe-ei o direito / de sentar-se comigo no meu trono."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 19,1-10",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Por amor, Deus enviou-nos o seu Filho / como vítima por nossas transgressões (1Jo 4,10).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(branco, pref. comum ou dos santos – ofício da memória)",
+   "cor": "branco"
+  },
+  "2026-11-18": {
+   "data": "2026-11-18",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/18-quarta-feira-11/",
+   "modificadoEm": "2026-11-18T03:57:48+00:00",
+   "cabecalho": "18 – QUARTA-FEIRA",
+   "celebracao": "33ª SEMANA DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Apocalipse 4,1-11",
+     "titulo": "Leitura do livro do Apocalipse de São João"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "150",
+     "refrao": "Santo, Santo, Santo, Senhor Deus onipotente!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 19,11-28",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Eu vos escolhi a fim de que deis, / no meio do mundo, um fruto que dure (Jo 15,16).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2026-11-19": {
+   "data": "2026-11-19",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/19-quinta-feira-11/",
+   "modificadoEm": "2026-11-19T03:02:11+00:00",
+   "cabecalho": "19 – QUINTA-FEIRA",
+   "celebracao": "SANTOS ROQUE GONZÁLEZ, AFONSO RODRÍGUEZ E JOÃO DEL CASTILLO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Apocalipse 5,1-10",
+     "titulo": "Leitura do livro do Apocalipse de São João"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "149",
+     "refrao": "Fizestes de nós, para Deus, sacerdotes e povo de reis."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 19,41-44",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Oxalá ouvísseis hoje a sua voz: / Não fecheis os corações como em Meriba! (Sl 94,8)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(vermelho, pref. comum ou dos mártires – ofício da memória)",
+   "cor": "vermelho"
+  },
+  "2026-11-20": {
+   "data": "2026-11-20",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/20-sexta-feira-11/",
+   "modificadoEm": "2026-11-20T03:05:12+00:00",
+   "cabecalho": "20 – SEXTA-FEIRA",
+   "celebracao": "33ª SEMANA DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Apocalipse 10,8-11",
+     "titulo": "Leitura do livro do Apocalipse de São João"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "118(119)",
+     "refrao": "Como é doce ao paladar vossa palavra, ó Senhor."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 19,45-48",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Minhas ovelhas escutam minha voz, / eu as conheço e elas me seguem (Jo 10,27).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2026-11-21": {
+   "data": "2026-11-21",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/21-sabado-11/",
+   "modificadoEm": "2026-11-21T03:56:17+00:00",
+   "cabecalho": "21 – SÁBADO",
+   "celebracao": "APRESENTAÇÃO DA BEM-AVENTURADA VIRGEM MARIA",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Zacarias 2,14-17",
+     "titulo": "Leitura da profecia de Zacarias"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "1",
+     "refrao": "O Poderoso fez por mim maravilhas, / e santo é o seu nome."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Mateus 12,46-50",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Feliz quem ouve e observa a Palavra de Deus! (Lc 11,28)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+    }
+   ],
+   "observacao": "(branco, pref. de Maria – ofício da memória)",
+   "cor": "branco"
+  },
+  "2026-11-22": {
+   "data": "2026-11-22",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/22-domingo-11/",
+   "modificadoEm": "2026-11-22T03:05:09+00:00",
+   "cabecalho": "22 – DOMINGO",
+   "celebracao": "NOSSO SENHOR JESUS CRISTO, REI DO UNIVERSO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Ezequiel 34,11-12.15-17",
+     "titulo": "Leitura da profecia de Ezequiel"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "22(23)",
+     "refrao": "O Senhor é o pastor que me conduz; / não me falta coisa alguma."
+    },
+    {
+     "tipo": "segunda",
+     "rotulo": "Segunda Leitura",
+     "referencia": "1 Coríntios 15,20-26.28",
+     "titulo": "Leitura da primeira carta de São Paulo aos Coríntios"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Mateus 25,31-46",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "É bendito aquele que vem vindo, / que vem vindo em nome do Senhor; / e o Reino que vem seja bendito; / ao que vem e a seu Reino, o louvor! (Mc 11,10)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+    }
+   ],
+   "observacao": "(branco, glória, creio, prefácio próprio – ofício da solenidade)",
+   "cor": "branco"
+  },
+  "2026-11-23": {
+   "data": "2026-11-23",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/23-segunda-feira-12/",
+   "modificadoEm": "2026-11-23T03:11:45+00:00",
+   "cabecalho": "23 – SEGUNDA-FEIRA",
+   "celebracao": "34ª SEMANA DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Apocalipse 14,1-5",
+     "titulo": "Leitura do livro do Apocalipse de São João"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "23(24)",
+     "refrao": "É assim a geração dos que buscam vossa face, / ó Senhor, Deus de Israel."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 21,1-4",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Vigiai, diz Jesus, vigiai, / pois, no dia em que não esperais, o vosso Senhor há de vir (Mt 24,42.44).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2026-11-24": {
+   "data": "2026-11-24",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/24-terca-feira-12/",
+   "modificadoEm": "2026-11-24T03:16:08+00:00",
+   "cabecalho": "24 – TERÇA-FEIRA",
+   "celebracao": "SANTO ANDRÉ DUNG-LAC, PRESBÍTERO, E COMPANHEIROS, MÁRTIRES",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Apocalipse 14,14-19",
+     "titulo": "Leitura do livro do Apocalipse de São João"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "95(96)",
+     "refrao": "O Senhor vem julgar nossa terra."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 21,5-11",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Permanece fiel até a morte, / e a coroa da vida eu te darei! (Ap 2,10)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(vermelho, pref. comum ou dos mártires – ofício da memória)",
+   "cor": "vermelho"
+  },
+  "2026-11-25": {
+   "data": "2026-11-25",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/25-quarta-feira-11/",
+   "modificadoEm": "2026-11-25T03:20:06+00:00",
+   "cabecalho": "25 – QUARTA-FEIRA",
+   "celebracao": "34ª SEMANA DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Apocalipse 15,1-4",
+     "titulo": "Leitura do livro do Apocalipse de São João"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "97(98)",
+     "refrao": "Como são grandes e admiráveis vossas obras, / ó Senhor e nosso Deus onipotente!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 21,12-19",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Permanece fiel até a morte, / e a coroa da vida eu te darei! (Ap 2,10)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2026-11-26": {
+   "data": "2026-11-26",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/26-quinta-feira-11/",
+   "modificadoEm": "2026-11-26T03:23:32+00:00",
+   "cabecalho": "26 – QUINTA-FEIRA",
+   "celebracao": "34ª SEMANA DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Apocalipse 18,1-2.21-23; 19,1-3.9",
+     "titulo": "Leitura do livro do Apocalipse de São João"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "99(100)",
+     "refrao": "São bem-aventurados os que foram convidados / para a ceia nupcial das bodas do Cordeiro!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 21,20-28",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Levantai vossa cabeça e olhai, / pois a vossa redenção se aproxima! (Lc 21,28)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2026-11-27": {
+   "data": "2026-11-27",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/27-sexta-feira-11/",
+   "modificadoEm": "2026-11-27T03:33:24+00:00",
+   "cabecalho": "27 – SEXTA-FEIRA",
+   "celebracao": "34ª SEMANA DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Apocalipse 20,1-4.11-21,2",
+     "titulo": "Leitura do livro do Apocalipse de São João"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "83(84)",
+     "refrao": "Eis a tenda de Deus no meio do povo!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 21,29-33",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Levantai vossa cabeça e olhai, / pois a vossa redenção se aproxima! (Lc 21,28)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2026-11-28": {
+   "data": "2026-11-28",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/28-sabado-12/",
+   "modificadoEm": "2026-11-28T03:45:50+00:00",
+   "cabecalho": "28 – SÁBADO",
+   "celebracao": "34ª SEMANA DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Apocalipse 22,1-7",
+     "titulo": "Leitura do livro do Apocalipse de São João"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "94(95)",
+     "refrao": "Amém! Vem, ó Senhor Jesus! Amém!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 21,34-36",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Vigiai e orai para ficardes de pé / ante o Filho do Homem! (Lc 21,36)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2026-11-29": {
+   "data": "2026-11-29",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/29-domingo-10/",
+   "modificadoEm": "2026-11-29T03:57:39+00:00",
+   "cabecalho": "29 – DOMINGO",
+   "celebracao": "1º DOMINGO DO ADVENTO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Isaías 63,16-17.19; 64,2-7",
+     "titulo": "Leitura do livro do profeta Isaías"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "79(80)",
+     "refrao": "Iluminai a vossa face sobre nós, / convertei-nos, para que sejamos salvos!"
+    },
+    {
+     "tipo": "segunda",
+     "rotulo": "Segunda Leitura",
+     "referencia": "1 Coríntios 1,3-9",
+     "titulo": "Leitura da primeira carta de São Paulo aos Coríntios"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Marcos 13,33-37",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Mostrai-nos, ó Senhor, vossa bondade, / e a vossa salvação nos concedei! (Sl 84,8)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos"
+    }
+   ],
+   "observacao": "(roxo, creio, prefácio do Advento I ou IA – 1ª semana do saltério)",
+   "cor": "roxo"
+  },
+  "2026-11-30": {
+   "data": "2026-11-30",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/30-segunda-feira-10/",
+   "modificadoEm": "2026-11-30T03:17:12+00:00",
+   "cabecalho": "30 – SEGUNDA-FEIRA",
+   "celebracao": "SANTO ANDRÉ, APÓSTOLO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Romanos 10,9-18",
+     "titulo": "Leitura da carta de São Paulo aos Romanos"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "18(19A)",
+     "refrao": "Seu som ressoa e se espalha em toda a terra."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Mateus 4,18-22",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Vinde após mim, disse o Senhor, / e eu ensinarei a pescar gente (Mt 4,19).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+    }
+   ],
+   "observacao": "(vermelho, glória, pref. dos apóstolos – ofício da festa)",
+   "cor": "vermelho"
+  }
+ }
+}

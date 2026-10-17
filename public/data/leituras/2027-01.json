@@ -1,0 +1,1003 @@
+{
+ "fonte": "https://www.paulus.com.br/portal/liturgia-diaria/",
+ "atualizadoEm": "2026-10-17T13:04:04.720Z",
+ "dias": {
+  "2027-01-01": {
+   "data": "2027-01-01",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/1o-sexta-feira-5/",
+   "modificadoEm": "2027-01-01T03:51:14+00:00",
+   "cabecalho": "1º – SEXTA-FEIRA",
+   "celebracao": "SANTA MARIA, MÃE DE DEUS",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Números 6,22-27",
+     "titulo": "Leitura do livro dos Números"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "66(67)",
+     "refrao": "Que Deus nos dê a sua graça e sua bênção."
+    },
+    {
+     "tipo": "segunda",
+     "rotulo": "Segunda Leitura",
+     "referencia": "Gálatas 4,4-7",
+     "titulo": "Leitura da carta de São Paulo aos Gálatas"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 2,16-21",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "De muitos modos, Deus outrora nos falou pelos profetas; / nestes tempos derradeiros, nos falou pelo seu Filho (Hb 1,1s).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(branco, glória, creio, prefácio de Maria I – ofício da solenidade)",
+   "cor": "branco"
+  },
+  "2027-01-02": {
+   "data": "2027-01-02",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/2-sabado-13/",
+   "modificadoEm": "2027-01-02T03:56:56+00:00",
+   "cabecalho": "2 – SÁBADO",
+   "celebracao": "SANTOS BASÍLIO MAGNO E GREGÓRIO NAZIANZENO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "1 João 2,22-28",
+     "titulo": "Leitura da primeira carta de São João"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "97(98)",
+     "refrao": "Os confins do universo contemplaram / a salvação do nosso Deus."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "João 1,19-28",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Depois de ter falado, no passado, / aos nossos pais, pelos profetas, muitas vezes, / em nossos dias Deus falou-nos por seu Filho (Hb 1,1s).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo João"
+    }
+   ],
+   "observacao": "(branco, pref. do Natal ou dos doutores – ofício da memória)",
+   "cor": "branco"
+  },
+  "2027-01-03": {
+   "data": "2027-01-03",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/3-domingo-9/",
+   "modificadoEm": "2027-01-03T03:13:28+00:00",
+   "cabecalho": "3 – DOMINGO",
+   "celebracao": "EPIFANIA DO SENHOR",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Isaías 60,1-6",
+     "titulo": "Leitura do livro do profeta Isaías"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "71(72)",
+     "refrao": "As nações de toda a terra hão de adorar-vos, ó Senhor!"
+    },
+    {
+     "tipo": "segunda",
+     "rotulo": "Segunda Leitura",
+     "referencia": "Efésios 3,2-3.5-6",
+     "titulo": "Leitura da carta de São Paulo aos Efésios"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Mateus 2,1-12",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Vimos sua estrela no Oriente / e viemos adorar o Senhor (Mt 2,2).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+    }
+   ],
+   "observacao": "(branco, glória, creio, prefácio da Epifania – ofício da solenidade)",
+   "cor": "branco"
+  },
+  "2027-01-04": {
+   "data": "2027-01-04",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/4-segunda-feira-12/",
+   "modificadoEm": "2027-01-04T03:31:59+00:00",
+   "cabecalho": "4 – SEGUNDA-FEIRA",
+   "celebracao": "TEMPO DO NATAL DEPOIS DA EPIFANIA",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "1 João 3,22-4,6",
+     "titulo": "Leitura da primeira carta de São João"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "2",
+     "refrao": "Eu te darei por tua herança os povos todos."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Mateus 4,12-17.23-25",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Jesus pregava a Boa-nova, o Reino anunciando, / e curava toda espécie de doenças entre o povo (Mt 4,23).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus"
+    }
+   ],
+   "observacao": "(branco, pref. da Epifania ou do Natal – ofício do dia da 2ª semana do saltério)",
+   "cor": "branco"
+  },
+  "2027-01-05": {
+   "data": "2027-01-05",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/5-terca-feira-12/",
+   "modificadoEm": "2027-01-05T03:36:01+00:00",
+   "cabecalho": "5 – TERÇA-FEIRA",
+   "celebracao": "TEMPO DO NATAL DEPOIS DA EPIFANIA",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "1 João 4,7-10",
+     "titulo": "Leitura da primeira carta de São João"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "71(72)",
+     "refrao": "Os reis de toda a terra / hão de adorar-vos, ó Senhor!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Marcos 6,34-44",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "O Espírito do Senhor repousa sobre mim / e enviou-me a anunciar aos pobres o Evangelho (Lc 4,18).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos"
+    }
+   ],
+   "observacao": "(branco, pref. da Epifania ou do Natal – ofício do dia)",
+   "cor": "branco"
+  },
+  "2027-01-06": {
+   "data": "2027-01-06",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/6-quarta-feira-12/",
+   "modificadoEm": "2027-01-06T03:40:20+00:00",
+   "cabecalho": "6 – QUARTA-FEIRA",
+   "celebracao": "TEMPO DO NATAL DEPOIS DA EPIFANIA",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "1 João 4,11-18",
+     "titulo": "Leitura da primeira carta de São João"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "71(72)",
+     "refrao": "As nações de toda a terra / hão de adorar-vos, ó Senhor!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Marcos 6,45-52",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Louvai o Senhor Jesus, todos os povos, / aceito pela fé no mundo inteiro! (1Tm 3,16)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos"
+    }
+   ],
+   "observacao": "(branco, pref. da Epifania ou do Natal – ofício do dia)",
+   "cor": "branco"
+  },
+  "2027-01-07": {
+   "data": "2027-01-07",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/7-quinta-feira-12/",
+   "modificadoEm": "2027-01-07T03:46:04+00:00",
+   "cabecalho": "7 – QUINTA-FEIRA",
+   "celebracao": "TEMPO DO NATAL DEPOIS DA EPIFANIA",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "1 João 4,19-5,4",
+     "titulo": "Leitura da primeira carta de São João"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "71(72)",
+     "refrao": "As nações de toda a terra / hão de adorar-vos, ó Senhor!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 4,14-22",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "O Espírito do Senhor repousa sobre mim / e enviou-me a anunciar aos pobres o Evangelho (Lc 4,18).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(branco, pref. da Epifania ou do Natal ofício do dia)",
+   "cor": "branco"
+  },
+  "2027-01-08": {
+   "data": "2027-01-08",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/8-sexta-feira-12/",
+   "modificadoEm": "2027-01-08T03:51:18+00:00",
+   "cabecalho": "8 – SEXTA-FEIRA",
+   "celebracao": "TEMPO DO NATAL DEPOIS DA EPIFANIA",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "1 João 5,5-13",
+     "titulo": "Leitura da primeira carta de São João"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "147(147B)",
+     "refrao": "Glorifica o Senhor, Jerusalém!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 5,12-16",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Jesus pregava a Boa-nova, o Reino anunciando, / e curava toda espécie de doenças entre o povo (Mt 4,23).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(branco, pref. da Epifania ou do Natal – ofício do dia)",
+   "cor": "branco"
+  },
+  "2027-01-09": {
+   "data": "2027-01-09",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/9-sabado-12/",
+   "modificadoEm": "2027-01-09T03:06:51+00:00",
+   "cabecalho": "9 – SÁBADO",
+   "celebracao": "TEMPO DO NATAL DEPOIS DA EPIFANIA",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "1 João 5,14-21",
+     "titulo": "Leitura da primeira carta de São João"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "149",
+     "refrao": "O Senhor ama seu povo de verdade."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "João 3,22-30",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "O povo sentado nas trevas / grande luz enxergou; / aos que viviam na sombra da morte, / resplandeceu-lhes a luz (Mt 4,16).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo João"
+    }
+   ],
+   "observacao": "(branco, pref. da Epifania ou do Natal – ofício do dia)",
+   "cor": "branco"
+  },
+  "2027-01-10": {
+   "data": "2027-01-10",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/10-domingo-11/",
+   "modificadoEm": "2027-01-10T03:31:11+00:00",
+   "cabecalho": "10 – DOMINGO",
+   "celebracao": "BATISMO DO SENHOR",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Isaías 42,1-4.6-7",
+     "titulo": "Leitura do livro do profeta Isaías"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "28(29)",
+     "refrao": "Que o Senhor abençoe, com a paz, o seu povo!"
+    },
+    {
+     "tipo": "segunda",
+     "rotulo": "Segunda Leitura",
+     "referencia": "Atos 10,34-38",
+     "titulo": "Leitura dos Atos dos Apóstolos"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Marcos 1,7-11",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Abriram-se os céus / e fez-se ouvir a voz do Pai: / Eis meu Filho muito amado; / escutai-o, todos vós! (Mc 9,7)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos"
+    }
+   ],
+   "observacao": "(branco, glória, creio, prefácio próprio – ofício da festa)",
+   "cor": "branco"
+  },
+  "2027-01-11": {
+   "data": "2027-01-11",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/11-segunda-feira-12/",
+   "modificadoEm": "2027-01-11T03:57:04+00:00",
+   "cabecalho": "11 – SEGUNDA-FEIRA",
+   "celebracao": "1ª SEMANA DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Hebreus 1,1-6",
+     "titulo": "Início da carta aos Hebreus"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "96(97)",
+     "refrao": "Adorai o Senhor Deus, vós, anjos todos!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Marcos 1,14-20",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Convertei-vos e crede no Evangelho, / pois o Reino de Deus está chegando! (Mc 1,15)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos"
+    }
+   ],
+   "observacao": "(verde – ofício do dia da 1ª semana)",
+   "cor": "verde"
+  },
+  "2027-01-12": {
+   "data": "2027-01-12",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/12-terca-feira-12/",
+   "modificadoEm": "2027-01-12T03:01:30+00:00",
+   "cabecalho": "12 – TERÇA-FEIRA",
+   "celebracao": "1ª SEMANA DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Hebreus 2,5-12",
+     "titulo": "Leitura da carta aos Hebreus"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "8",
+     "refrao": "Destes domínio ao vosso Filho / sobre tudo o que criastes."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Marcos 1,21-28",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Acolhei a Palavra de Deus não como palavra humana, / mas como mensagem de Deus, o que ela é, em verdade! (1Ts 2,13)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2027-01-13": {
+   "data": "2027-01-13",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/13-quarta-feira-12/",
+   "modificadoEm": "2027-01-13T03:08:21+00:00",
+   "cabecalho": "13 – QUARTA-FEIRA",
+   "celebracao": "1ª SEMANA DO TEMPO COMUM*",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Hebreus 2,14-18",
+     "titulo": "Leitura da carta aos Hebreus"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "104(105)",
+     "refrao": "O Senhor se lembra sempre da aliança."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Marcos 1,29-39",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Minhas ovelhas escutam minha voz, / eu as conheço e elas me seguem (Jo 10,27).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2027-01-14": {
+   "data": "2027-01-14",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/14-quinta-feira-12/",
+   "modificadoEm": "2027-01-14T03:28:10+00:00",
+   "cabecalho": "14 – QUINTA-FEIRA",
+   "celebracao": "1ª SEMANA DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Hebreus 3,7-14",
+     "titulo": "Leitura da carta aos Hebreus"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "94(95)",
+     "refrao": "Oxalá ouvísseis hoje a sua voz: / Não fecheis os vossos corações."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Marcos 1,40-45",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Jesus pregava a Boa-nova, o Reino anunciando, / e curava toda espécie de doenças entre o povo (Mt 4,23).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2027-01-15": {
+   "data": "2027-01-15",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/15-sexta-feira-12/",
+   "modificadoEm": "2027-01-15T03:42:25+00:00",
+   "cabecalho": "15 – SEXTA-FEIRA",
+   "celebracao": "1ª SEMANA DO TEMPO COMUM*",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Hebreus 4,1-5.11",
+     "titulo": "Leitura da carta aos Hebreus"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "77(78)",
+     "refrao": "Não vos esqueçais das obras do Senhor!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Marcos 2,1-12",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Um grande profeta surgiu entre nós / e Deus visitou o seu povo, aleluia (Lc 7,16).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2027-01-16": {
+   "data": "2027-01-16",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/16-sabado-13/",
+   "modificadoEm": "2027-01-16T03:57:09+00:00",
+   "cabecalho": "16 – SÁBADO",
+   "celebracao": "1ª SEMANA DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Hebreus 4,12-16",
+     "titulo": "Leitura da carta aos Hebreus"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "18(19B)",
+     "refrao": "Vossas palavras são espírito, são vida; / tendes palavras, ó Senhor, de vida eterna."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Marcos 2,13-17",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "O Espírito do Senhor repousa sobre mim / e enviou-me a anunciar aos pobres o Evangelho (Lc 4,18).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2027-01-17": {
+   "data": "2027-01-17",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/dia-17-2o-domingo-do-tempo-comum/",
+   "modificadoEm": "2027-01-17T03:50:07+00:00",
+   "cabecalho": "Dia 17 – 2º DOMINGO DO TEMPO COMUM",
+   "celebracao": "",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "1 Samuel 3,3-10.19",
+     "titulo": "Leitura do primeiro livro de Samuel"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "39(40)",
+     "refrao": "Eu disse: “Eis que venho, Senhor! / Com prazer faço a vossa vontade”."
+    },
+    {
+     "tipo": "segunda",
+     "rotulo": "Segunda Leitura",
+     "referencia": "1 Coríntios 6,13-15.17-20",
+     "titulo": "Leitura da primeira carta de São Paulo aos Coríntios"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "João 1,35-42",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Encontramos o Messias, Jesus Cristo, / de graça e verdade ele é pleno; / de sua imensa riqueza, / graças sem fim recebemos (Jo 1,41.17).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo João"
+    }
+   ],
+   "observacao": "(verde, glória, creio – 2ª semana do saltério)",
+   "cor": "verde"
+  },
+  "2027-01-18": {
+   "data": "2027-01-18",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/18-segunda-feira-12/",
+   "modificadoEm": "2027-01-18T03:58:36+00:00",
+   "cabecalho": "18 – SEGUNDA-FEIRA",
+   "celebracao": "2ª SEMANA DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Hebreus 5,1-10",
+     "titulo": "Leitura da carta aos Hebreus"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "109(110)",
+     "refrao": "Tu és sacerdote eternamente / segundo a ordem do rei Melquisedeque!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Marcos 2,18-22",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "A Palavra do Senhor é viva e eficaz: / ela julga os pensamentos e as intenções do coração (Hb 4,12).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2027-01-19": {
+   "data": "2027-01-19",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/19-terca-feira-12/",
+   "modificadoEm": "2027-01-19T03:08:31+00:00",
+   "cabecalho": "19 – TERÇA-FEIRA",
+   "celebracao": "2ª SEMANA DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Hebreus 6,10-20",
+     "titulo": "Leitura da carta aos Hebreus"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "110(111)",
+     "refrao": "O Senhor se lembra sempre da Aliança."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Marcos 2,23-28",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Que o Pai do Senhor Jesus Cristo / vos dê do saber o Espírito, / para que conheçais a esperança, / reservada para vós como herança! (Ef 1,17s)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2027-01-20": {
+   "data": "2027-01-20",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/20-quarta-feira-12/",
+   "modificadoEm": "2027-01-20T03:17:08+00:00",
+   "cabecalho": "20 – QUARTA-FEIRA",
+   "celebracao": "2ª SEMANA DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Hebreus 7,1-3.15-17",
+     "titulo": "Leitura da carta aos Hebreus"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "109(110)",
+     "refrao": "Tu és sacerdote eternamente / segundo a ordem do rei Melquisedeque!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Marcos 3,1-6",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Jesus pregava a Boa-nova, o Reino anunciando, / e curava toda espécie de doenças entre o povo (Mt 4,23).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2027-01-21": {
+   "data": "2027-01-21",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/21-quinta-feira-12/",
+   "modificadoEm": "2027-01-21T03:01:16+00:00",
+   "cabecalho": "21 – QUINTA-FEIRA",
+   "celebracao": "SANTA INÊS",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Hebreus 7,25-8,6",
+     "titulo": "Leitura da carta aos Hebreus"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "39(40)",
+     "refrao": "Eis que venho fazer, com prazer, / a vossa vontade, Senhor!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Marcos 3,7-12",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Jesus Cristo salvador destruiu o mal e a morte; / fez brilhar pelo Evangelho a luz e a vida imperecíveis (2Tm 1,10).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos"
+    }
+   ],
+   "observacao": "(vermelho, pref. comum ou das virgens – ofício da memória)",
+   "cor": "vermelho"
+  },
+  "2027-01-22": {
+   "data": "2027-01-22",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/22-sexta-feira-12/",
+   "modificadoEm": "2027-01-22T03:15:58+00:00",
+   "cabecalho": "22 – SEXTA-FEIRA",
+   "celebracao": "2ª SEMANA DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Hebreus 8,6-13",
+     "titulo": "Leitura da carta aos Hebreus"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "84(85)",
+     "refrao": "A verdade e o amor se encontrarão."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Marcos 3,13-19",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Em Cristo, Deus reconciliou consigo mesmo a humanidade; / e a nós ele entregou essa reconciliação (2Cor 5,19).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2027-01-23": {
+   "data": "2027-01-23",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/23-sabado-12/",
+   "modificadoEm": "2027-01-23T03:23:28+00:00",
+   "cabecalho": "23 – SÁBADO",
+   "celebracao": "2ª SEMANA DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Hebreus 9,2-3.11-14",
+     "titulo": "Leitura da carta aos Hebreus"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "46(47)",
+     "refrao": "Por entre aclamações Deus se elevou, / o Senhor subiu ao toque da trombeta."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Marcos 3,20-21",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Abri-nos, ó Senhor, o coração, / para ouvirmos a Palavra de Jesus! (At 16,14)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2027-01-24": {
+   "data": "2027-01-24",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/dia-24/",
+   "modificadoEm": "2027-01-24T03:31:50+00:00",
+   "cabecalho": "Dia 24",
+   "celebracao": "3º DOMINGO DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Jonas 3,1-5.10",
+     "titulo": "Leitura da profecia de Jonas"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "24(25)",
+     "refrao": "Mostrai-me, ó Senhor, vossos caminhos, / vossa verdade me oriente e me conduza!"
+    },
+    {
+     "tipo": "segunda",
+     "rotulo": "Segunda Leitura",
+     "referencia": "1 Coríntios 7,29-31",
+     "titulo": "Leitura da primeira carta de São Paulo aos Coríntios"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Marcos 1,14-20",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "O Reino do Céu está perto! / Convertei-vos, irmãos, é preciso! / Crede todos no Evangelho! (Mc 1,15)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos"
+    }
+   ],
+   "observacao": "(verde, glória, creio – 3ª semana do saltério)",
+   "cor": "verde"
+  },
+  "2027-01-25": {
+   "data": "2027-01-25",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/25-segunda-feira-12/",
+   "modificadoEm": "2027-01-25T03:36:38+00:00",
+   "cabecalho": "25 – SEGUNDA-FEIRA",
+   "celebracao": "CONVERSÃO DE SÃO PAULO, apóstolo",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Atos 22,3-16",
+     "titulo": "Leitura dos Atos dos Apóstolos"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "116(117)",
+     "refrao": "Ide por todo o mundo, a todos pregai o Evangelho."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Marcos 16,15-18",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Eu vos designei para que vades e deis frutos / e o vosso fruto permaneça, assim disse o Senhor (Jo 15,16).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos"
+    }
+   ],
+   "observacao": "(branco, glória, pref. dos apóstolos I – ofício da festa)",
+   "cor": "branco"
+  },
+  "2027-01-26": {
+   "data": "2027-01-26",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/26-terca-feira-12/",
+   "modificadoEm": "2027-01-26T03:39:33+00:00",
+   "cabecalho": "26 – TERÇA-FEIRA",
+   "celebracao": "SANTOS TIMÓTEO E TITO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "2 Timóteo 1,1-8",
+     "titulo": "Início da segunda carta de São Paulo a Timóteo"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "95(96)",
+     "refrao": "Anunciai entre as nações os grandes feitos do Senhor!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Lucas 10,1-9",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "O Espírito do Senhor repousa sobre mim / e enviou-me a anunciar aos pobres o Evangelho (Lc 4,18).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas"
+    }
+   ],
+   "observacao": "(branco, pref. comum ou dos pastores – ofício da memória)",
+   "cor": "branco"
+  },
+  "2027-01-27": {
+   "data": "2027-01-27",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/27-quarta-feira-12/",
+   "modificadoEm": "2027-01-27T03:43:34+00:00",
+   "cabecalho": "27 – QUARTA-FEIRA",
+   "celebracao": "3ª SEMANA DO TEMPO COMUM*",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Hebreus 10,11-18",
+     "titulo": "Leitura da carta aos Hebreus"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "109(110)",
+     "refrao": "Tu és sacerdote eternamente / segundo a ordem do rei Melquisedeque!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Marcos 4,1-20",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Semente é de Deus a Palavra, / o Cristo é o semeador; / todo aquele que o encontra, / vida eterna encontrou.",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2027-01-28": {
+   "data": "2027-01-28",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/28-quinta-feira-12/",
+   "modificadoEm": "2027-01-28T03:46:47+00:00",
+   "cabecalho": "28 – QUINTA-FEIRA",
+   "celebracao": "SANTO TOMÁS DE AQUINO",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Hebreus 10,19-25",
+     "titulo": "Leitura da carta aos Hebreus"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "23(24)",
+     "refrao": "É assim a geração dos que buscam vossa face, / ó Senhor, Deus de Israel."
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Marcos 4,21-25",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Vossa Palavra é uma luz para os meus passos / e uma lâmpada luzente em meu caminho (Sl 118,105).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos"
+    }
+   ],
+   "observacao": "(branco, pref. dos doutores – ofício da memória)",
+   "cor": "branco"
+  },
+  "2027-01-29": {
+   "data": "2027-01-29",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/29-sexta-feira-12/",
+   "modificadoEm": "2027-01-29T03:51:57+00:00",
+   "cabecalho": "29 – SEXTA-FEIRA",
+   "celebracao": "3ª SEMANA DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Hebreus 10,32-39",
+     "titulo": "Leitura da carta aos Hebreus"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "36(37)",
+     "refrao": "A salvação de quem é justo vem de Deus!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Marcos 4,26-34",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Graças te dou, ó Pai, Senhor do céu e da terra, / pois revelaste os mistérios do teu Reino aos pequeninos, escondendo-os aos doutores! (Mt 11,25)",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2027-01-30": {
+   "data": "2027-01-30",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/30-sabado-12/",
+   "modificadoEm": "2027-01-30T03:59:03+00:00",
+   "cabecalho": "30 – SÁBADO",
+   "celebracao": "3ª SEMANA DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Hebreus 11,1-2.8-19",
+     "titulo": "Leitura da carta aos Hebreus"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "Lc 1",
+     "refrao": "Bendito seja o Senhor Deus de Israel, / porque a seu povo visitou e libertou!"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Marcos 4,35-41",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "Deus o mundo tanto amou, / que lhe deu seu próprio Filho, / para que todo o que nele crer / encontre vida eterna (Jo 3,16).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos"
+    }
+   ],
+   "observacao": "(verde – ofício do dia)",
+   "cor": "verde"
+  },
+  "2027-01-31": {
+   "data": "2027-01-31",
+   "url": "https://www.paulus.com.br/portal/liturgia-diaria/dia-31/",
+   "modificadoEm": "2027-01-31T03:06:33+00:00",
+   "cabecalho": "Dia 31",
+   "celebracao": "4º DOMINGO DO TEMPO COMUM",
+   "leituras": [
+    {
+     "tipo": "primeira",
+     "rotulo": "Primeira Leitura",
+     "referencia": "Deuteronômio 18,15-20",
+     "titulo": "Leitura do livro do Deuteronômio"
+    },
+    {
+     "tipo": "salmo",
+     "rotulo": "Salmo Responsorial",
+     "referencia": "94(95)",
+     "refrao": "Não fecheis o coração, ouvi hoje a voz de Deus!"
+    },
+    {
+     "tipo": "segunda",
+     "rotulo": "Segunda Leitura",
+     "referencia": "1 Coríntios 7,32-35)",
+     "titulo": "Leitura da primeira carta de São Paulo aos Coríntios"
+    },
+    {
+     "tipo": "evangelho",
+     "rotulo": "Evangelho",
+     "referencia": "Marcos 1,21-28",
+     "aclamacao": "Aleluia, aleluia, aleluia.",
+     "versiculo": "O povo que jazia nas trevas viu brilhar uma luz grandiosa; / a luz despontou para aqueles que jaziam nas sombras da morte (Mc 4,16).",
+     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos"
+    }
+   ],
+   "observacao": "(verde, glória, creio – 4ª semana do saltério)",
+   "cor": "verde"
+  }
+ }
+}
