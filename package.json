@@ -4,14 +4,15 @@
   "version": "0.1.0",
   "type": "module",
   "license": "AGPL-3.0-only",
+  "packageManager": "pnpm@12.5.1",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
     "preview": "vite preview",
     "test": "vitest run",
     "typecheck": "vue-tsc --noEmit",
-    "leituras": "node --experimental-strip-types scripts/leituras/coletar.ts",
-    "romcal:validar": "node --experimental-strip-types scripts/leituras/validar-romcal.ts"
+    "leituras": "node --experimental-strip-types --no-warnings scripts/leituras/coletar.ts",
+    "romcal:validar": "node --experimental-strip-types --no-warnings scripts/leituras/validar-romcal.ts"
   },
   "dependencies": {
     "@romcal/calendar.brazil": "3.0.0-dev.140",

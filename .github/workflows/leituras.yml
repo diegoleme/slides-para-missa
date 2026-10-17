@@ -1,0 +1,62 @@
+name: Leituras da Paulus
+
+# Toda segunda-feira às 06:00 (Brasília) busca as leituras novas e grava em public/data/leituras.
+# O agendamento só vale para a branch padrão (main). Também pode ser disparado à mão.
+on:
+  schedule:
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+    inputs:
+      desde:
+        description: 'Data inicial (AAAA-MM-DD). Vazio = últimos 35 dias.'
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: leituras
+  cancel-in-progress: false
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: Testes do extrator
+        run: pnpm exec vitest run scripts
+
+      - name: Coletar leituras
+        run: |
+          if [ -n "${{ inputs.desde }}" ]; then
+            pnpm leituras --desde "${{ inputs.desde }}"
+          else
+            pnpm leituras
+          fi
+
+      - name: Comparar romcal com a Paulus
+        run: pnpm romcal:validar
+        continue-on-error: true
+
+      - name: Gravar no repositório
+        run: |
+          git config user.name "robo-das-leituras"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/leituras
+          if git diff --cached --quiet; then
+            echo "Nada novo."
+          else
+            git commit -m "Leituras: atualização automática"
+            git push
+          fi
