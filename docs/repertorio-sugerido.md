@@ -112,7 +112,7 @@ O salmo muda todo domingo, então não vale cadastrar um por um como canto. O ap
 | Estar em Tuas Mãos | Amanda Pinheiro | Shalom | Ressuscitou (2008) | Shalom | sem-autorizacao ✉ | ✔ | — |
 | Pão e Vinho | — | Min. Amor e Adoração | Celebração (2011, CN) | CN | sem-autorizacao ✉ | ~ | — |
 | Em Teu Altar | Walmir Alencar / Rodrigo Pires | Walmir Alencar | (2002) | CN | sem-autorizacao ✉ | ~ | — |
-| Bendito Sejais, Senhor | — | Coral CN / CNBB | — | CN/CNBB | sem-autorizacao | ? | conferir se é da CN (aí ganha ✉) |
+| Bendito Sejais, Senhor | — | Coral Canção Nova | Na Santa Eucaristia (2015, CN) | CN | sem-autorizacao ✉ | ✔ | resposta do povo nas orações das oferendas |
 | Venho, Senhor, Ofertar | Dirceu Vicente de Paula | CN | — | CN | sem-autorizacao ✉ | ? | — |
 | Minha Vida Tem Sentido | Pe. Zezinho | Pe. Zezinho | Ágape (1998) | CNBB | sem-autorizacao | ✔ | — |
 | De Mãos Estendidas | Ir. Salete / Pe. Silvio Milanez | vários | — | CNBB | sem-autorizacao | ~ | — |
@@ -438,7 +438,125 @@ Três cantos da Shalom na lista não aparecem nesses álbuns e vêm de outros di
 - "Gratidão"
 - "O Teu Corpo, Senhor"
 
-## 4. Por onde começar
+## 4. Álbuns litúrgicos da Canção Nova (conferência faixa a faixa)
+
+A Canção Nova não tem uma página que liste os álbuns litúrgicos, como a da Shalom. Para montar a lista:
+- Procurei no Deezer os álbuns da gravadora Canção Nova (artistas Canção Nova, Ministério Amor e Adoração, Coral Canção Nova e Cantinho da Criança).
+- Fiquei com os que seguem o formato de missa ou são de salmos.
+
+Ficaram de fora por serem de louvor, não de missa:
+- *Celebramos o Amor* (2012) e *Amor e Adoração* (2015), do Ministério Amor e Adoração.
+- *De Mãos Unidas* (2003), da Canção Nova.
+
+Valem as mesmas regras da seção da Shalom:
+- **Momento provável:** deduzido da posição da faixa no álbum e do título. Precisa ser conferido.
+- **Na lista?:** ✔ já estava nas seções acima; **novo** é uma faixa que faltava.
+
+### Celebração – Canções Litúrgicas (2011), Ministério Amor e Adoração
+
+| # | Faixa | Momento provável | Na lista? |
+|---|---|---|---|
+| 1 | Vamos Celebrar | entrada | ✔ |
+| 2 | Igreja Reunida | entrada | ✔ |
+| 3 | Quero Confessar (Kyrie) | ato penitencial | novo |
+| 4 | Ó Senhor, Tende Piedade! | ato penitencial | ✔ |
+| 5 | Glória a Deus nas Alturas | Glória | ✔ (quase todo o texto) |
+| 6 | Luz para o Meu Caminho | salmo / aclamação? | novo |
+| 7 | Quero Ouvir Tua Palavra | aclamação | ✔ |
+| 8 | Pão e Vinho | ofertório | ✔ |
+| 9 | Santo | Santo | ✔ (📖) |
+| 10 | Santo, Santo, Santo | Santo | novo |
+| 11 | Pai-Nosso | Pai-Nosso cantado | novo (a biblioteca tem o texto rezado) |
+| 12 | Cordeiro de Deus | Cordeiro | ✔ |
+| 13 | Agnus Dei | Cordeiro | novo |
+| 14 | Fonte do Viver | comunhão | novo |
+| 15 | Verbum Panis | comunhão | ✔ |
+| 16 | Recebe Adoração | comunhão / ação de graças | novo |
+| 17 | Todo Dia | ação de graças / final | novo |
+| 18 | És a Escolhida | final (mariano) | novo |
+
+### O Banquete do Cordeiro (2021), Ministério Amor e Adoração
+
+A edição de 2022 acrescenta "Recebe Adoração", "Entre Nós" (outra versão) e "Verbum Panis", que repetem faixas do *Celebração*. O álbum tem várias faixas marianas.
+
+| # | Faixa | Momento provável | Na lista? |
+|---|---|---|---|
+| 1 | Salve Rainha dos Céus | entrada (missa mariana)? | novo |
+| 2 | Vinde Todos Adoremos | entrada | novo |
+| 3 | Tende Piedade | ato penitencial | novo |
+| 4 | Plenitude da Verdade, Kyrie | ato penitencial | novo |
+| 5 | Glória | Glória | novo (conferir se segue o texto) |
+| 6 | Aleluia | aclamação | novo (⚠ aleluia) |
+| 7 | A Oferta de Maria | ofertório | novo |
+| 8 | Oferta de Louvor | ofertório | novo |
+| 9 | Santo | Santo | novo |
+| 10 | Cordeiro | Cordeiro | novo |
+| 11 | Escolhida de Deus Pai | comunhão / mariano | novo |
+| 12 | Entre Nós | comunhão | novo |
+| 13 | És a Minha Mãe | final (mariano) | novo |
+| 14 | Jesus Voltará | final | novo |
+
+### Na Santa Eucaristia (2015), Coral Canção Nova
+
+É o álbum mais completo: tem quase todas as respostas cantadas da missa, inclusive as aclamações da oração eucarística.
+
+| # | Faixa | Momento provável | Na lista? |
+|---|---|---|---|
+| 1 | Deus Habita | entrada | novo |
+| 2 | Confesso a Deus | ato penitencial (Confesso a Deus cantado) | novo |
+| 3 | Kyrie | ato penitencial | novo |
+| 4 | Tende Compaixão | ato penitencial | novo |
+| 5 | Senhor, Que Vieste Salvar | ato penitencial (3ª fórmula) | novo |
+| 6 | Glória | Glória | novo (conferir se segue o texto) |
+| 7 | Hino de Louvor | Glória? | novo |
+| 8 | Aleluia | aclamação | ✔ (⚠ aleluia) |
+| 9 | Bendito Seja Deus | ofertório | novo |
+| 10 | Bendito Sejais, Senhor | ofertório | ✔ |
+| 11 | Santo | Santo | novo |
+| 12 | Anunciamos, Senhor | aclamação memorial | novo |
+| 13 | Todas as Vezes Que Comemos Deste Pão | aclamação memorial | novo |
+| 14 | Salvador do Mundo | aclamação memorial | novo |
+| 15 | Amém | doxologia (fim da oração eucarística) | novo |
+| 16 | Agnus Dei | Cordeiro | novo |
+| 17 | Bendirei o Senhor Deus | comunhão | novo |
+| 18 | Na Santa Eucaristia | comunhão | novo |
+| 19 | Panis Angelicus | comunhão / ação de graças | novo |
+| 20 | Ave Verdadeiro | comunhão / ação de graças | novo |
+| 21 | Salve Regina | final (mariano) | já na biblioteca, em latim |
+
+*Panis angelicus* (Santo Tomás de Aquino) e *Ave verum corpus* são hinos latinos antigos. O **texto em latim** é domínio público e poderia entrar na biblioteca como os outros hinos latinos. A gravação e uma tradução em português, não.
+
+### Tempo de Cantar – Missa para Crianças (2011), Cantinho da Criança (gravadora Canção Nova)
+
+Três álbuns de 10 faixas, um por tempo. Nenhuma faixa estava na lista. Aqui as faixas não seguem uma ordem clara da missa, então só indico o momento quando o título deixa claro.
+
+| Álbum | Faixas (momento, quando o título indica) |
+|---|---|
+| Tempo Comum | Festa da Alegria (entrada), Estou Aqui, Cada Dia Sou Melhor, Diante Desse Altar (ofertório), Pedacinho do Céu, Glória a Deus nas Alturas (Glória), Deus do Universo (Santo?), Pai-Nosso (título no Deezer: "Paiosso"), Cordeiro de Deus (Cordeiro), A Missa Terminou (final) |
+| Quaresma / Páscoa | Caminho da Cruz (entrada, Quaresma), Senhor Piedade (ato penitencial), Palavra da Vida (aclamação), Oferto a Ti (ofertório), Alegria de Viver, Páscoa de Jesus, Quero Te Seguir, Ele Quer Falar, Ser Pequeninho, Jesus É Minha Páscoa |
+| Advento / Natal | Que Alegria, Vem pra Me Salvar (entrada, Advento), Vamos Escutar (aclamação), Sonho de Criança, Toma Conta de Mim, Deus Menino (Natal), Piedade de Mim (ato penitencial), Palavra Que Nasceu, Maior Presente, Quem Vem pra Receber (comunhão) |
+
+Úteis se a paróquia tiver missa com crianças. Para a missa dominical comum, não são prioridade.
+
+### Salmos
+
+Não seguem a ordem da missa: são salmos responsoriais avulsos. Servem quando o salmo do domingo coincide com um deles. O app já traz o refrão da Paulus.
+
+| Álbum | Faixas |
+|---|---|
+| Entoai Salmos, Cantai ao Senhor Deus uma Canção Nova (2005) | Uma Canção Nova; A Minh'alma Tem Sede de Deus; O Senhor Está Perto; Felizes; Fazei-Me Conhecer a Vossa Estrada; Alegria e Refúgio; Criai em Mim um Coração Que Seja Puro; A Geração; As Nações Hão de Adorar-Vos (Sl 71); Eu Confio (Sl 55); Piedade (Sl 56); O Rei Se Alegra (Sl 20); De Todos os Temores |
+| Cantando Salmos – Semana Santa (2014) | Meu Deus, Por Que Me Abandonastes? (Ramos); Senhor, Eu Cantarei Eternamente Vosso Amor; O Cálice por Nós Abençoado (Quinta-feira Santa); Ó Pai, em Tuas Mãos Eu Entrego o Meu Espírito (Sexta-feira Santa); Enviai o Vosso Espírito, Senhor; Aleluia, Aleluia, Aleluia; Guardai-Me, ó Deus; Cantemos ao Senhor Que Fez Brilhar Sua Glória; Eu Vos Exalto, ó Senhor; Com Alegria Bebereis do Manancial da Salvação (os salmos da Vigília Pascal); Senhor, Tens Palavras de Vida Eterna; A Minh'alma Tem Sede de Deus; Este É o Dia Que o Senhor Fez para Nós (Páscoa) |
+
+O *Cantando Salmos – Semana Santa* cobre quase todos os salmos do Tríduo e da Vigília Pascal, que mudam pouco de ano para ano. Vale cadastrar antes da Semana Santa.
+
+**Resumo Canção Nova:**
+- Nos 3 álbuns com formato de missa da linha principal (*Celebração*, *O Banquete do Cordeiro* e *Na Santa Eucaristia*), 11 das 53 faixas já estavam na lista. Os 3 infantis (30 faixas) e os 2 de salmos (26) estavam só citados ou nem isso.
+- O que mais faltava:
+  - *O Banquete do Cordeiro* inteiro.
+  - Quase todo o *Na Santa Eucaristia*: Confesso a Deus, as aclamações memoriais, o Amém, o Agnus Dei.
+  - Os Agnus Dei e Santos alternativos do *Celebração*.
+
+## 5. Por onde começar
 
 1. **Um álbum completo de cada comunidade (depois da autorização por escrito).** Cobrem quase todas as partes de uma vez:
    - Shalom: *Kyrios* (2021), *Banquete Eterno* (2022), *Divino Coração* (2017) e *Um Só Corpo* (2012).
@@ -447,7 +565,7 @@ Três cantos da Shalom na lista não aparecem nesses álbuns e vêm de outros di
 3. **Os cantos do Hinário da CNBB que o seu ministério já canta.** Comece pela entrada e pela comunhão, que mudam mais.
 4. **Um bloco para o próximo tempo forte.** O Advento começa em 29/11/2026.
 
-## 5. Pendências da pesquisa
+## 6. Pendências da pesquisa
 
 - **Créditos conflitantes**, para confirmar no encarte ou no site da comunidade antes de publicar: Vamos Celebrar, Senhor Quem Entrará, Ó Pai Somos Nós, Cordeiro de Deus (CN), Cordeiro do Pe. Marcelo, Eu Vim Para Que Todos Tenham Vida, Te Amarei Senhor, Pelos Prados e Campinas.
 - **Cantos de gravadoras seculares** (Roberto Carlos; Mateus e Cristiano): é onde uma reclamação é mais provável.
