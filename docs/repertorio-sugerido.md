@@ -42,7 +42,7 @@ Os anos do Deezer às vezes são do relançamento digital, não do lançamento o
 | Juntos, Como Irmãos | Pe. José Weber | vários | — | CNBB | sem-autorizacao | ✔ | sem link |
 | Toda a Terra Te Adore | Pe. Ney Brasil (créditos variam) | CNBB | Hinário Litúrgico | CNBB | sem-autorizacao | ~ | letras.mus.br/cnbb/194421/ |
 | Ó Pai, Somos Nós o Povo Eleito | conflitante (Terra/Veloso × Pe. José de Freitas Campos) | CNBB | — | CNBB | sem-autorizacao | ~ | letras.mus.br/cnbb/o-pai-somos-nos-o-povo-eleito/ |
-| Teu Povo Se Reuniu | Pe. Zezinho, scj | Pe. Zezinho | Ágape (1998, Paulinas-Comep) | CNBB | sem-autorizacao | ✔ | — |
+| Teu Povo Se Reuniu | Pe. Zezinho, scj | Pe. Zezinho | Ágape (1974–75, Paulinas-Comep) | CNBB | sem-autorizacao | ✔ | — |
 | Senhor, Quem Entrará? | conflitante (Mons. Jonas Abib × adapt.) | Mons. Jonas Abib | — | CN | sem-autorizacao ✉ | ~ | letras.mus.br/padre-jonas/740283/ |
 | Vamos Celebrar | conflitante | Min. Amor e Adoração | Celebração – Canções Litúrgicas (2011, CN) | CN | sem-autorizacao ✉ | ~ | letras.mus.br/ministerio-amor-e-adoracao/1882954/ |
 | Igreja Reunida | Carlos Tocco / Carlos Eduardo da Silva | Min. Amor e Adoração | Celebração – Canções Litúrgicas (2011, CN) | CN | sem-autorizacao ✉ | ✔ | letras.mus.br/ministerio-amor-e-adoracao/1972782/ |
@@ -55,7 +55,7 @@ Os anos do Deezer às vezes são do relançamento digital, não do lançamento o
 |---|---|---|---|---|---|---|---|
 | Senhor, Tende Piedade de Nós | Ir. Míria T. Kolling (presumido) | Ir. Míria | Santo é o Senhor (2003, Paulus) | CNBB | sem-autorizacao | ~ | o álbum tem o ordinário completo |
 | Senhor, Tende Piedade de Nós | Joel Postma / Walnei L. de Sousa | CNBB | — | CNBB | sem-autorizacao | ? | 📖 |
-| Senhor, Tende Piedade de Nós | Pe. Zezinho (presumido) | Pe. Zezinho | Ágape (1998) | CNBB | sem-autorizacao | ~ | — |
+| Senhor, Tende Piedade de Nós | Pe. Zezinho (presumido) | Pe. Zezinho | Ágape (1974–75) | CNBB | sem-autorizacao | ~ | — |
 | Ó Senhor, Tende Piedade | Min. Amor e Adoração | Min. Amor e Adoração | Celebração (2011, CN) | CN | sem-autorizacao ✉ | ~ | letras.mus.br/ministerio-amor-e-adoracao/o-senhor-tende-piedade/ |
 | Kyrie Eleison | Nicodemos Costa | Shalom | Ressuscitou (2008) | Shalom | sem-autorizacao ✉ | ✔ | letras.mus.br/comunidade-catolica-shalom/1213280/ · em grego, com versos meditativos |
 | Sois o Caminho | Wemerson Silva e outros | Shalom | Kyrios (2021) | Shalom | sem-autorizacao ✉ | ✔ | letras.mus.br/comunidade-catolica-shalom/sois-o-caminho/ · invocações a Cristo |
@@ -69,12 +69,12 @@ Não se canta no Advento nem na Quaresma (o app já avisa).
 
 | Título | Compositor | Intérprete | Álbum (ano) | Origem | Direitos | Texto | Link |
 |---|---|---|---|---|---|---|---|
-| Glória a Deus nas Alturas | Fábio Roniel | Eliana Ribeiro / CN | Espera no Senhor (2006, CN) | CN | sem-autorizacao ✉ | 📖 (20/20) | letras.mus.br/eliana-ribeiro/783808/ |
+| Glória a Deus nas Alturas | conflitante: Fábio Roniel (letras.com.br) × Eliana Ribeiro (folheto 57 da Diocese de Guarulhos, que o rotula "Glória – Missal") | Eliana Ribeiro / CN | Espera no Senhor (2006, CN) | CN | sem-autorizacao ✉ | 📖 (20/20) | letras.mus.br/eliana-ribeiro/783808/ |
 | Paz na Terra / Por Ele Amados | Gabriel Bosco | Shalom | Um Só Corpo (2012); Kyrios (2021) | Shalom | sem-autorizacao ✉ | 📖 (18–20/20) | letras.mus.br/comunidade-catolica-shalom/paz-na-terra/ · confirmar se as duas faixas são a mesma |
 | Glória a Deus nas Alturas | Emanuel Stênio e outros | Min. Amor e Adoração | Celebração (2011, CN) | CN | sem-autorizacao ✉ | quase (17/20) | letras.mus.br/ministerio-amor-e-adoracao/gloria-a-deus-nas-alturas/ |
 | Glória a Deus nas Alturas | Wilde Fábio, Nicodemos Costa e outros | Shalom | Ressuscitou (2008) | Shalom | sem-autorizacao ✉ | ✎ (15/20) | letras.mus.br/comunidade-catolica-shalom/876425/ |
 | Glória a Deus nos Altos Céus | letra CNBB, música Joel Postma | — | Hinário Litúrgico | CNBB | sem-autorizacao | ✎ versão métrica | — |
-| Glória a Deus nas Alturas | Pe. Zezinho | Pe. Zezinho | Ágape (1998) | CNBB | sem-autorizacao | ✎ | — |
+| Glória a Deus nas Alturas | Pe. Zezinho | Pe. Zezinho | Ágape (1974–75) | CNBB | sem-autorizacao | ✎ | — |
 
 Já na biblioteca: **Gloria** em latim.
 
@@ -114,7 +114,7 @@ O salmo muda todo domingo, então não vale cadastrar um por um como canto. O ap
 | Em Teu Altar | Walmir Alencar / Rodrigo Pires | Walmir Alencar | (2002) | CN | sem-autorizacao ✉ | ~ | — |
 | Bendito Sejais, Senhor | — | Coral Canção Nova | Na Santa Eucaristia (2015, CN) | CN | sem-autorizacao ✉ | ✔ | resposta do povo nas orações das oferendas |
 | Venho, Senhor, Ofertar | Dirceu Vicente de Paula | CN | — | CN | sem-autorizacao ✉ | ? | — |
-| Minha Vida Tem Sentido | Pe. Zezinho | Pe. Zezinho | Ágape (1998) | CNBB | sem-autorizacao | ✔ | — |
+| Minha Vida Tem Sentido | Pe. Zezinho | Pe. Zezinho | Ágape (1974–75) | CNBB | sem-autorizacao | ✔ | — |
 | De Mãos Estendidas | Ir. Salete / Pe. Silvio Milanez | vários | — | CNBB | sem-autorizacao | ~ | — |
 | Muitos Grãos de Trigo | José Acácio Santana | vários | — | CNBB | sem-autorizacao | ~ | — |
 | Sabes, Senhor | Lindbergh Pires (?) | vários | — | CNBB | sem-autorizacao | ? | — |
@@ -656,7 +656,81 @@ Os títulos abaixo aparecem nos sites de cifras sem álbum identificado:
 - Para **Corpus Christi**, a Toca é uma boa fonte: Sequência, Hino ao Preciosíssimo Sangue, Pão dos Anjos.
 - Glória e Santo existem, mas é preciso conferir se seguem o texto do Missal.
 
-## 6. Por onde começar
+## 6. Outros artistas (resumo)
+
+O detalhe faixa a faixa está em [`repertorio-artistas.md`](repertorio-artistas.md). Lá os momentos marcados como "provável" foram deduzidos pelo título, e o texto de Glória, Santo e Cordeiro não foi conferido.
+
+**Artistas com álbum em formato de missa:**
+
+| Artista | Álbum | Observação |
+|---|---|---|
+| Pe. Zezinho, scj | *Ágape* (1974–75), *Maranatha – Missa Pop* (1976), *Missa Fazedores da Paz* (1998), *Fortes na Fé* (1998), *Ir ao Povo* (2003), *Oferenda* (2003), *Cantigas de Pão e Vinho* (2003) | Paulinas-COMEP. Vários Glória e Santo são paráfrase (Glória Sideral, Santo do Sertanejo, Hino ao Cordeiro) |
+| Frei Gilson | *Santo Sacrifício* (2016) | 11 faixas em ordem de missa; independente |
+| Colo de Deus | *Mística Sublime* (2021) | do sinal da cruz ao canto final; tem "Confesso a Deus" cantado |
+
+**Álbuns litúrgicos que não são missa completa:**
+- **Comunidade Recado:** *Noite Excelsa* Vol. 1 e 2 (2018–19, do Natal ao Batismo do Senhor) e *O Senhor Ressuscitou* (2023, Tríduo Pascal).
+- **Salmos:**
+  - Eliana Ribeiro, *Ao Mestre do Canto* (2009, CN ✉).
+  - Cristo Alegria, *Cantemos ao Senhor* (2025, salmos de Ramos, do Tríduo e da Vigília).
+
+**Sem álbum de missa** (louvor e adoração, com cantos avulsos úteis):
+
+| Artista | Para que serve mais | Destaques | Atenção |
+|---|---|---|---|
+| Ministério Adoração e Vida | adoração | *Em Santidade*, *Lugar de Adoração e Vida* 1 e 2 | Paulinas-COMEP |
+| Walmir Alencar | comunhão | Em Teu Altar, Ao Partir o Pão, O Milagre Desta Comunhão | Paulinas-COMEP |
+| Adriana Arydes | mariano | Coroação de Nossa Senhora, Em Tua Presença | *Sagrado* (2018) saiu pela Universal (secular) |
+| Pe. Fábio de Melo | adoração e comunhão | *Queremos Deus* (2013), Cores da Eucaristia | muitos álbuns por Som Livre e Sony (seculares); 2 pela CN ✉ |
+| Davidson Silva | comunhão | Sacramento da Comunhão; participa de *Que Todos Sejam Um: Canções Litúrgicas* (Leo Mantovani, 2020) | 3 primeiros álbuns pela Edições Shalom ✉ |
+| Missionário Shalom | adoração e mariano | *Msh ao Teu Lado 2025*, Meu Senhor e Meu Deus, Todo Teu, ó Mãe | Edições Shalom ✉ |
+| Vida Reluz | adoração | Como És Lindo, Diante do Rei | 1 álbum pela CN ✉ |
+| Fraternidade São João Paulo II | louvor | Banquete, Envia-Me, Virgem Gloriosa | — |
+| Ziza Fernandes | pouco uso | *Meu Tudo* (2002) | — |
+| Pe. Joãozinho | devocional | Povo da Eucaristia, Conheço um Coração | "Pai Nosso, Nós Te Amamos" é paráfrase |
+| Tony Allysson | adoração e Pentecostes | Adorar, Soberano, Purifica-me | — |
+| Anjos de Resgate | adoração | Majestosa Eucaristia, Pão dos Anjos | *10 Anos* (2011) pela Som Livre |
+| Banda DOM | adoração e ofertório | Coração Adorador, Neste Altar | — |
+| Eliana Ribeiro | Glória, salmos, adoração | Glória a Deus nas Alturas, Maranathá, Cântico de Adoração | CN ✉ |
+| Thiago Brado | adoração | Eterna Adoração, Eu Te Adoro | álbuns de 2016–18 pela Universal |
+| Eugênio Jorge | ação de graças e tempos fortes | Obrigado, Senhor; Lamentos do Senhor (Sexta-feira Santa); Preparai o Caminho (Advento) | CN ✉ |
+
+## 7. Adoração ao Santíssimo
+
+Esta é a etiqueta nova do app: "Adoração ao Santíssimo". Serve para missas com exposição do Santíssimo e para a bênção eucarística. Para acrescentar o momento ao roteiro, use a opção "Adoração ao Santíssimo (canto)".
+
+**Já na biblioteca** (latim, domínio público):
+- *O salutaris Hostia*, tradicional na exposição.
+- *Tantum ergo*, tradicional antes da bênção.
+- *Adoro te devote*.
+
+**Sugestões por artista:**
+
+| Canto | Artista | Álbum (ano) | Obs. |
+|---|---|---|---|
+| Tão Sublime Sacramento | Pe. Zezinho e outros | vários | versão em português do *Tantum ergo*; cada tradução tem autor próprio |
+| Glória a Jesus na Hóstia Santa / Queremos Deus | Pe. Fábio de Melo | Queremos Deus (2013, Sony) | hinos tradicionais; aparece num roteiro de exposição da Arquidiocese de Teresina |
+| Deus Está Aqui | Pe. Fábio de Melo | Queremos Deus (2013) | — |
+| Majestosa Eucaristia | Anjos de Resgate | vários | o mais regravado do grupo |
+| Pão dos Anjos | Anjos de Resgate; Toca de Assis; Pe. Zezinho | vários | o título se repete; podem ser cantos diferentes |
+| Santo dos Santos | Frei Gilson; Colo de Deus; Missionário Shalom | vários | o título se repete; não é o Santo da missa |
+| Solidão do Tabernáculo, Tu És o Centro, No Silêncio do Altar | Frei Gilson | 360° (2024), Redenção (2017) | — |
+| Jesus Meu Esposo, Mística Sublime, Se Ninguém Te Adorar Eu Vou, Como Noiva Adornada no Altar | Colo de Deus | série *Adoração na Nossa Casa É Assim*, *O Cordeiro, o Leão e o Trono* | a maior fonte de adoração da lista |
+| Ares da Adoração, Além do Véu, Shekinah, Vem, Senhor Jesus | Ministério Adoração e Vida | *Lugar de Adoração e Vida* (2018), *Shekinah* (2016), *Herói* (2013) | "Vem, Senhor Jesus" aparece num roteiro da Arquidiocese de Fortaleza, creditado à Vida Reluz; conferir se é o mesmo canto |
+| Eu Vim para Te Adorar, Em Teu Altar | Walmir Alencar | *Misericórdia Infinita* (2002) | — |
+| Como És Lindo, Diante do Rei, O Senhor Está Presente | Vida Reluz | *Celebra a Vitória* (1997), *Deus Imenso* (2000) | — |
+| Meu Senhor e Meu Deus | Missionário Shalom ✉; Vida Reluz; Eugênio Jorge | vários | aclamação de Tomé (Jo 20,28); serve na elevação |
+| Face Adorável, Sacrifício de Amor | Missionário Shalom ✉ | *Msh ao Teu Lado 2025* | — |
+| Em Tua Presença | Adriana Arydes | *Lindo Céu* (2003) | — |
+| Iluminada Hóstia, Pão de Misericórdia | Cristo Alegria | singles | independente |
+| Coração Adorador | Banda DOM | — | — |
+| Cântico de Adoração, Estás Entre Nós | Eliana Ribeiro | *Tempo de Colheita* (2002) | — |
+| Eterna Adoração, Eu Te Adoro | Thiago Brado | — | — |
+| Adorar, Soberano | Tony Allysson | — | — |
+| Adoração e Glória, Mistério Incomparável | Comunidade Recado | — | — |
+| Tabernáculos, Eu Te Adoro, Glória ao Santíssimo | Toca de Assis | *Jesus Sacramentado, Nosso Deus Amado* (2003) | — |
+
+## 8. Por onde começar
 
 1. **Um álbum completo de cada comunidade (depois da autorização por escrito).** Cobrem quase todas as partes de uma vez:
    - Shalom: *Kyrios* (2021), *Banquete Eterno* (2022), *Divino Coração* (2017) e *Um Só Corpo* (2012).
@@ -665,7 +739,7 @@ Os títulos abaixo aparecem nos sites de cifras sem álbum identificado:
 3. **Os cantos do Hinário da CNBB que o seu ministério já canta.** Comece pela entrada e pela comunhão, que mudam mais.
 4. **Um bloco para o próximo tempo forte.** O Advento começa em 29/11/2026.
 
-## 7. Pendências da pesquisa
+## 9. Pendências da pesquisa
 
 - **Créditos conflitantes**, para confirmar no encarte ou no site da comunidade antes de publicar: Vamos Celebrar, Senhor Quem Entrará, Ó Pai Somos Nós, Cordeiro de Deus (CN), Cordeiro do Pe. Marcelo, Eu Vim Para Que Todos Tenham Vida, Te Amarei Senhor, Pelos Prados e Campinas.
 - **Cantos de gravadoras seculares** (Roberto Carlos; Mateus e Cristiano): é onde uma reclamação é mais provável.
