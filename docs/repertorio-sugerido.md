@@ -556,7 +556,107 @@ O *Cantando Salmos – Semana Santa* cobre quase todos os salmos do Tríduo e da
   - Quase todo o *Na Santa Eucaristia*: Confesso a Deus, as aclamações memoriais, o Amém, o Agnus Dei.
   - Os Agnus Dei e Santos alternativos do *Celebração*.
 
-## 5. Por onde começar
+## 5. Toca de Assis
+
+A Toca de Assis é uma fraternidade fundada em Campinas em 1994, com carisma de **adoração ao Santíssimo** e de cuidado com os moradores de rua.
+
+Os álbuns **não seguem a ordem da missa** como os da Shalom e da Canção Nova: são de louvor e adoração eucarística. Para a missa, aproveitam-se:
+- alguns Glória e Santo;
+- muitos cantos de **comunhão** e **ação de graças**, o forte da Toca;
+- os marianos.
+
+As faixas dos cantos litúrgicos também servem para adoração e Corpus Christi.
+
+**Direitos:** `sem-autorizacao`, sem ✉. A autorização que você pediu foi só para Canção Nova e Shalom. O *Do Altar de Deus ao Altar dos Pobres* saiu pela gravadora Canção Nova, mas as composições são da Toca, então o pedido feito à CN provavelmente não cobre essas faixas.
+
+**Fontes:**
+- Discografia: Wikipédia (*Fraternidade de Aliança Toca de Assis*).
+- Faixas: Deezer e Apple Music.
+- Títulos avulsos: Cifras e Vagalume.
+- Fora do ar ou bloqueados: Cifra Club e Som13.
+- Sem lista de faixas: *Vai e Reconstrói a Minha Igreja* (2014, independente) e o *Acústico* (2013, citado só no Som13).
+
+### Onde Dormirão os Pobres? (1998; no streaming, 2003; CODIMUC)
+
+| # | Faixa | Momento provável |
+|---|---|---|
+| 3 | Corpo, Sangue, Alma e Divindade | comunhão |
+| 5 | Consagração de Amor | comunhão / ação de graças |
+| 7 | Riqueza no Altar | ofertório / comunhão? |
+| 8 | Virgem do Silêncio | final (mariano) |
+| 12 | Nós Adoramos | comunhão / ação de graças |
+| 4 | Oração de São Francisco | final |
+| — | Onde Dormirão os Pobres, Entrega Total, Pureza de Menina, Meu Destino É a Cruz, Diálogo com Deus, Pobre Irmão de Rua | louvor / missão (pouco uso na missa) |
+
+### Jesus Sacramentado, Nosso Deus Amado (2003, Duplo Louvor)
+
+| # | Faixa | Momento provável |
+|---|---|---|
+| 2 | Santo | Santo (conferir se segue o texto) |
+| 8 | Glória | Glória (conferir se segue o texto) |
+| 6 | Pão dos Anjos | comunhão (pode ser versão do *Panis angelicus*; conferir) |
+| 3, 4, 5, 7, 9 | Tabernáculos, Sublime Silêncio, Meu Deus, Meu Tudo, Eu Te Adoro, Adoramos Jesus | comunhão / ação de graças |
+| 11 | Flor Primorosa | final (mariano)? |
+| 14 | Glória ao Santíssimo | ação de graças / adoração |
+| 10, 12, 13, 15 | Tudo É Bom Perto de Ti, Doces Palavras, Discípulos da Cruz, Teu Tudo – Oração Final | ação de graças / final |
+
+### Jesus Sacramentado: Certeza do Céu (2006, Duplo Louvor)
+
+As faixas 2, 6, 11 e 16 são falas (apresentação, declamação, agradecimento, partilha), não cantos.
+
+| # | Faixa | Momento provável |
+|---|---|---|
+| 1 | Glória | Glória? (conferir se segue o texto) |
+| 3 | Adoramos o Verbo | comunhão |
+| 4 | A Primeira Que Comungou | comunhão / mariano |
+| 9 | Meu Sumo Bem | comunhão |
+| 10 | Fiel Pelicano | comunhão (imagem do *Adoro te devote*) |
+| 13 | Misericórdia Eucarística (Jesus Hóstia Santa) | comunhão |
+| 15 | Deus Presente | comunhão / ação de graças |
+| 5, 7, 8, 12, 14, 17 | O Deus de Minh'alma, Alegria de Minha Juventude, Dá-Me Tua Graça, Bom Pastor, Aos Pequeninos, Só um Adorador | ação de graças / final |
+
+### Do Altar de Deus ao Altar dos Pobres (2008 ou 2009, gravadora Canção Nova)
+
+É o álbum da Toca mais útil para a missa.
+
+| # | Faixa | Momento provável |
+|---|---|---|
+| 9 | Rumo ao Altar | entrada |
+| 6 | Santo, Cheios da Vossa Glória | Santo (conferir se segue o texto) |
+| 3 | Sacramento de Amor | comunhão |
+| 4 | Coração em Comunhão | comunhão |
+| 7 | Isto É o Meu Corpo no Altar e nas Ruas | comunhão |
+| 14 | Banquete do Cordeiro | comunhão (não confundir com o álbum da Canção Nova de mesmo nome) |
+| 13 | Hino ao Preciosíssimo Sangue | comunhão / mês de julho |
+| 10 | Eterna Gratidão | ação de graças |
+| 5 | A Ovelha Sou Eu | ação de graças |
+| 15 | Bendita Árvore da Cruz | Sexta-feira Santa (adoração da cruz) / Exaltação da Santa Cruz |
+| 2, 16 | Glórias da Virgem, Grande Mãe de Deus | final (mariano) |
+| 11 | Sacerdote Amigo | final (dias de oração pelos padres) |
+| 8, 12 | Reflexo, Fogo Abrasador | ação de graças / final |
+
+### Toca de Assis irmãos (2022–2025, independente)
+
+O ramo masculino lança álbuns e singles novos. Do ponto de vista litúrgico:
+- *Meu Deus, Meu Tudo* (2024): Morada, Selo Indelével, Meu Coração Te Adorará, Fazer-Te Companhia, Renova-me (comunhão / ação de graças), Seguir Teus Passos, Grito de Júbilo e Onde Dormirão os Pobres.
+- *Virgem Gloriosa* (2025, marianos): Humilde Rainha, Mãe Gloriosa; À Vossa Proteção; Sacrário do Amor; Bela Princesa; Virgem Imaculada.
+- Singles: Sacramento de Luz, Me Deixa Ficar, A Ovelha Sou Eu (acústico), De Coração para Coração, Homenagem do Coração, Doce É Sentir.
+
+### Títulos avulsos (Cifras e Vagalume)
+
+Os títulos abaixo aparecem nos sites de cifras sem álbum identificado:
+- **"Glória a Deus nas alturas (litúrgico)"**: pelo nome, o mais promissor para o Glória.
+- **"Salmo 32 (33)"**.
+- **"Sequência de Corpus Christi"**: a sequência *Lauda Sion*, que é cantada antes do Evangelho na solenidade.
+- Herança da Igreja, O Amado, Tempo de Adorar, Como Posso?, Mais Bela Pérola, Nossa História e Viver Livre.
+
+**Resumo Toca de Assis:**
+- Nenhuma faixa estava na lista.
+- Para a missa dominical, os mais úteis são os cantos de **comunhão** (é onde a Toca mais contribui) e o álbum *Do Altar de Deus ao Altar dos Pobres*.
+- Para **Corpus Christi**, a Toca é uma boa fonte: Sequência, Hino ao Preciosíssimo Sangue, Pão dos Anjos.
+- Glória e Santo existem, mas é preciso conferir se seguem o texto do Missal.
+
+## 6. Por onde começar
 
 1. **Um álbum completo de cada comunidade (depois da autorização por escrito).** Cobrem quase todas as partes de uma vez:
    - Shalom: *Kyrios* (2021), *Banquete Eterno* (2022), *Divino Coração* (2017) e *Um Só Corpo* (2012).
@@ -565,7 +665,7 @@ O *Cantando Salmos – Semana Santa* cobre quase todos os salmos do Tríduo e da
 3. **Os cantos do Hinário da CNBB que o seu ministério já canta.** Comece pela entrada e pela comunhão, que mudam mais.
 4. **Um bloco para o próximo tempo forte.** O Advento começa em 29/11/2026.
 
-## 6. Pendências da pesquisa
+## 7. Pendências da pesquisa
 
 - **Créditos conflitantes**, para confirmar no encarte ou no site da comunidade antes de publicar: Vamos Celebrar, Senhor Quem Entrará, Ó Pai Somos Nós, Cordeiro de Deus (CN), Cordeiro do Pe. Marcelo, Eu Vim Para Que Todos Tenham Vida, Te Amarei Senhor, Pelos Prados e Campinas.
 - **Cantos de gravadoras seculares** (Roberto Carlos; Mateus e Cristiano): é onde uma reclamação é mais provável.
