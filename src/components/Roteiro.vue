@@ -75,6 +75,7 @@ function mover(i: number, delta: number) {
         <select id="novo-momento" v-model="escolha" @change="acrescentar">
           <option value="" disabled>Escolha…</option>
           <option value="canto">Canto</option>
+          <option value="canto:adoracao">Adoração ao Santíssimo (canto)</option>
           <option value="texto">Texto (oração, orientação)</option>
           <option value="leitura:primeira">Primeira leitura</option>
           <option value="leitura:salmo">Salmo responsorial</option>

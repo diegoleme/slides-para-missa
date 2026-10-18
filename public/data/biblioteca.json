@@ -465,7 +465,8 @@
       ],
       "momentos": [
         "comunhao",
-        "pos-comunhao"
+        "pos-comunhao",
+        "adoracao"
       ],
       "tempos": []
     },
@@ -508,7 +509,8 @@
       ],
       "momentos": [
         "comunhao",
-        "pos-comunhao"
+        "pos-comunhao",
+        "adoracao"
       ],
       "tempos": []
     },
@@ -547,7 +549,8 @@
       ],
       "momentos": [
         "comunhao",
-        "pos-comunhao"
+        "pos-comunhao",
+        "adoracao"
       ],
       "tempos": []
     },

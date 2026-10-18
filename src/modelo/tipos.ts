@@ -17,6 +17,7 @@ export type EtiquetaMomento =
   | 'cordeiro'
   | 'comunhao'
   | 'pos-comunhao'
+  | 'adoracao'
   | 'final'
   | 'mariano'
   | 'outro';
@@ -36,6 +37,7 @@ export const NOMES_ETIQUETA: Record<EtiquetaMomento, string> = {
   cordeiro: 'Cordeiro',
   comunhao: 'Comunhão',
   'pos-comunhao': 'Pós-comunhão',
+  adoracao: 'Adoração ao Santíssimo',
   final: 'Final',
   mariano: 'Mariano',
   outro: 'Outro',

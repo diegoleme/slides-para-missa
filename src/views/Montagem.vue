@@ -13,7 +13,7 @@ import { HEX_COR, NOMES_COR, NOMES_TEMPO } from '../liturgia/calendario.ts';
 import { leiturasDoDia } from '../liturgia/leituras.ts';
 import { aplicarLeituras, novoMomento } from '../modelo/roteiro.ts';
 import { situacaoDoMomento } from '../modelo/situacao.ts';
-import type { Momento, Situacao, TipoLeituraMomento, TipoMomento } from '../modelo/tipos.ts';
+import { NOMES_ETIQUETA, type EtiquetaMomento, type Momento, type Situacao, type TipoLeituraMomento, type TipoMomento } from '../modelo/tipos.ts';
 import { useBiblioteca } from '../stores/biblioteca.ts';
 import { useMissas } from '../stores/missas.ts';
 import { dataPorExtenso, diaDaSemana } from '../util/datas.ts';
@@ -90,7 +90,11 @@ function remover(id: string) {
 async function acrescentar(escolha: string) {
   const m = missa.value!;
   const [tipo, sub] = escolha.split(':') as [TipoMomento, string | undefined];
-  let novo: Momento = novoMomento(tipo, { leitura: sub as TipoLeituraMomento | undefined });
+  // "canto:adoracao" cria um canto já com a etiqueta e o nome do momento.
+  const extra = tipo === 'canto' && sub
+    ? { etiqueta: sub as EtiquetaMomento, nome: NOMES_ETIQUETA[sub as EtiquetaMomento] }
+    : { leitura: sub as TipoLeituraMomento | undefined };
+  let novo: Momento = novoMomento(tipo, extra);
   if (tipo === 'leitura') [novo] = aplicarLeituras([novo], await leiturasDoDia(m.data));
   const i = m.momentos.findIndex((x) => x.id === selecionado.value);
   m.momentos.splice(i >= 0 ? i + 1 : m.momentos.length, 0, novo);
